@@ -3915,7 +3915,7 @@ E {  861} {n} {n} {1} {0} {} {1.000} {}
 R {  860} {0} {} {Among Tangled Trees} { } {The flora grows fast and dense along the coastline, protecting the shoreline\nwith a thick jungle between the hilly back-country of Eritrea and the coast.\nAnimal noises echo all around you.\n} {King Solomon's Mines} {} {} {} {1.000} {}
 E {  859} {n} {n} {1} {0} {} {1.000} {}
 
-R {  861} {0} {} {Among Tangled Trees} { } {The flora grows fast and dense along the coastline, protecting the shoreline\nwith a thick jungle between the hilly back-country of Eritrea and the coast.\nAnimal noises echo all around you. In the midst of tangled trees and branches\nyou spot a large stone statue on the ground, all covered in moss that seems\nto come from another age.\n} {King Solomon's Mines} {} {} {} {1.000} {}
+R {  861} {0} {} {Among Tangled Trees} {t} {The flora grows fast and dense along the coastline, protecting the shoreline\nwith a thick jungle between the hilly back-country of Eritrea and the coast.\nAnimal noises echo all around you. In the midst of tangled trees and branches\nyou spot a large stone statue on the ground, all covered in moss that seems\nto come from another age.\n} {King Solomon's Mines} {} {} {} {1.000} {}
 E {  859} {s} {s} {4} {0} {} {1.000} {}
 E { 1303} {kneel statue} {kneel statue;st} {0} {0} {} {1.000} {}
 
@@ -4100,7 +4100,7 @@ R {  905} {0} {} {On a Coastal Path} { } {The small coastal path on the moor fol
 E {  904} {n} {n} {1} {0} {} {1.000} {}
 E {  906} {s} {s} {4} {0} {} {1.000} {}
 
-R {  906} {0} {} {The Bay of the Departed} { } {Emerald blue waves come lashing onto the steep cliffs surrounding the bay,\nwhere pink sandstone gives shelter to an important colony of seagulls. On\nthe rocky beach below, the hulls of once fierce ships rot under the assault\nof the tireless waves, haunted by the memories of many shipwrecks. Around\nthe bay you notice fire encampments indicating that these ships probably did\nnot wreck here by a matter of bad luck and that someone - or something - lured\nthem to the ruthless reefs.\n} {Ys} {} {} {} {1.000} {}
+R {  906} {0} {} {The Bay of the Departed} {t} {Emerald blue waves come lashing onto the steep cliffs surrounding the bay,\nwhere pink sandstone gives shelter to an important colony of seagulls. On\nthe rocky beach below, the hulls of once fierce ships rot under the assault\nof the tireless waves, haunted by the memories of many shipwrecks. Around\nthe bay you notice fire encampments indicating that these ships probably did\nnot wreck here by a matter of bad luck and that someone - or something - lured\nthem to the ruthless reefs.\n} {Ys} {} {} {} {1.000} {}
 E {  905} {n} {n} {1} {0} {} {1.000} {}
 E { 1444} {push mound} {push mound} {0} {0} {} {1.000} {}
 
@@ -4219,7 +4219,7 @@ R {  933} {0} {} {A Dirt Road Outside Kleinstadt} { } {The forest thins substant
 E {  932} {s} {s} {4} {0} {} {1.000} {}
 E {  934} {n} {n} {1} {0} {} {1.000} {}
 
-R {  934} {0} {} {Das Sudstadttor} { } {The thick stone of the town walls is broken here by the southern gate of the\ncity, which is reinforced with heavy iron. There is a small bronze plaque\nwith some writing on it bolted to the door. The town beyond would be a\nwelcome sight after a long forest trek. Within the stout walls, a traveler\ncould surely wash dust from a weary throat by a long drink of fine German\nwine. The road leads north into the town, and south into the forest. The dark\ntrees seem to crowd the city from three directions, but you can detect that a\ncleared area lies to the east of the city, and might be quickly reached by\npassing through town.\n} {Medieval Kleinstadt} {klein} {} {} {1.000} {}
+R {  934} {0} {} {Das Sudstadttor} {t} {The thick stone of the town walls is broken here by the southern gate of the\ncity, which is reinforced with heavy iron. There is a small bronze plaque\nwith some writing on it bolted to the door. The town beyond would be a\nwelcome sight after a long forest trek. Within the stout walls, a traveler\ncould surely wash dust from a weary throat by a long drink of fine German\nwine. The road leads north into the town, and south into the forest. The dark\ntrees seem to crowd the city from three directions, but you can detect that a\ncleared area lies to the east of the city, and might be quickly reached by\npassing through town.\n} {Medieval Kleinstadt} {klein} {} {} {1.000} {}
 E {  933} {s} {s} {4} {0} {} {1.000} {}
 E { 5029} {gate} {enq ask gate gate} {0} {0} {} {1.000} {}
 E { 5029} {ask gate gate} {enq ask gate gate} {0} {0} {} {1.000} {}
@@ -5202,7 +5202,7 @@ R { 1160} {0} {} {Lost in Underhill} { } {You have strayed from the path and bec
 E { 1161} {s} {s} {4} {0} {} {1.000} {}
 E { 1201} {n} {open n;n} {1} {1} {} {1.000} {}
 
-R { 1161} {0} {} {In the Land of Shadows} { } {Darkness crosses the horizon as the forest seems to crowd around you. Strange\ncreatures lurk amongst the shadows, their eyes barely visible between the\ntwisted and gnarled branches that block the paths. You wonder to yourself for\na minute whether or not anyone has ever actually made it out alive. A deep\nmist blocks your view to the south.\n} {Land of Shadows} {ferdia} {} {} {1.000} {}
+R { 1161} {0} {} {In the Land of Shadows} {t} {Darkness crosses the horizon as the forest seems to crowd around you. Strange\ncreatures lurk amongst the shadows, their eyes barely visible between the\ntwisted and gnarled branches that block the paths. You wonder to yourself for\na minute whether or not anyone has ever actually made it out alive. A deep\nmist blocks your view to the south.\n} {Land of Shadows} {ferdia} {} {} {1.000} {}
 E { 1160} {n} {n} {1} {0} {} {1.000} {}
 E { 1162} {s} {s} {4} {0} {} {1.000} {}
 E { 1583} {use portal} {use portal} {0} {0} {} {1.000} {}
@@ -5237,7 +5237,7 @@ R { 1167} {0} {} {The Perilous Glen} { } {You wonder if anyone has ever passed t
 E { 1166} {s} {s} {4} {0} {} {1.000} {}
 E { 1165} {n} {n} {1} {0} {} {1.000} {}
 
-R { 1168} {0} {} {Before the Bridge of Leaps} { } {You stand on the edge of a majestic valley. Below you, waves crash against\nbare rock sending sprays of water dozens of yards into the air. Boiling waves\npart to expose tons of creatures, hideous and deformed, of which legends are\nwritten. A narrow bridge spans to the other side. It looks to be safe for no\nmore than one person at a time, if that.\n} {Land of Shadows} {} {} {} {1.000} {}
+R { 1168} {0} {} {Before the Bridge of Leaps} {t} {You stand on the edge of a majestic valley. Below you, waves crash against\nbare rock sending sprays of water dozens of yards into the air. Boiling waves\npart to expose tons of creatures, hideous and deformed, of which legends are\nwritten. A narrow bridge spans to the other side. It looks to be safe for no\nmore than one person at a time, if that.\n} {Land of Shadows} {} {} {} {1.000} {}
 E { 1165} {e} {e} {2} {0} {} {1.000} {}
 E { 2538} {w} {w;st} {8} {0} {} {1.000} {}
 E { 2539} {leap} {leap} {0} {0} {} {1.000} {}
@@ -5650,7 +5650,7 @@ R { 1261} {0} {} {On Desolate Plains} { } {You are far from the luscious, moist 
 E { 1260} {e} {e} {2} {0} {} {1.000} {}
 E { 1262} {n} {n} {1} {0} {} {1.000} {}
 
-R { 1262} {0} {} {The Foot of Tall Mountains} { } {Wastelands retreat here and leave place to a desert of rocks and large\nboulders that rolled from high impenetrable mountains towering high above.\nUp in the sky, mean dark clouds gather, stuck on the fierce peaks and\ncasting the promise of rains that never come.\n} {King Solomon's Mines} {} {} {} {1.000} {}
+R { 1262} {0} {} {The Foot of Tall Mountains} {t} {Wastelands retreat here and leave place to a desert of rocks and large\nboulders that rolled from high impenetrable mountains towering high above.\nUp in the sky, mean dark clouds gather, stuck on the fierce peaks and\ncasting the promise of rains that never come.\n} {King Solomon's Mines} {} {} {} {1.000} {}
 E { 1261} {s} {s} {4} {0} {} {1.000} {}
 E { 7812} {leap} {leap} {0} {0} {} {1.000} {}
 
@@ -5661,7 +5661,7 @@ R { 1264} {0} {} {Passing Through the Mountains} { } {The land below fades as yo
 E { 7812} {d} {d} {32} {0} {} {1.000} {}
 E { 1265} {e} {e} {2} {0} {} {1.000} {}
 
-R { 1265} {0} {} {Climbing a Steep Trail} { } {The narrow trail winds along up the mountainside, steadily growing steeper.\nThe way down looks easier, a more gradual slope and the air is easier to\nbreathe.\n} {King Solomon's Mines} {} {} {} {1.000} {}
+R { 1265} {0} {} {Climbing a Steep Trail} {t} {The narrow trail winds along up the mountainside, steadily growing steeper.\nThe way down looks easier, a more gradual slope and the air is easier to\nbreathe.\n} {King Solomon's Mines} {} {} {} {1.000} {}
 E { 1264} {w} {w} {8} {0} {} {1.000} {}
 E { 1266} {u} {u} {16} {0} {} {1.000} {}
 E { 7813} {push rock} {push rock} {0} {0} {} {1.000} {}
@@ -5830,7 +5830,7 @@ E { 1303} {s} {s} {4} {0} {} {1.000} {}
 R { 1302} {0} {} {A Door into the Mountain} { } {A large stone door framed with Semitic runes of power opens up here into the\nside of the Mountain. The entrance is flanked with two large statues of black\nstone representing long forgotten deities that tower a dozen feet high above\nthe entrance to the mines, scarring away intruders.\n} {King Solomon's Mines} {} {} {} {1.000} {}
 E { 1301} {e} {e} {2} {0} {} {1.000} {}
 
-R { 1303} {0} {} {Before a Rushing Waterfall} { } {A waterfall cascades here from very high above your head into a small pool of\nwater. The place is inhabited by many small flies that dance around in clouds,\nconstantly disturbed by the waters that sparkles from the cascade.\n} {King Solomon's Mines} {} {} {} {1.000} {}
+R { 1303} {0} {} {Before a Rushing Waterfall} {t} {A waterfall cascades here from very high above your head into a small pool of\nwater. The place is inhabited by many small flies that dance around in clouds,\nconstantly disturbed by the waters that sparkles from the cascade.\n} {King Solomon's Mines} {} {} {} {1.000} {}
 E { 1301} {n} {n} {1} {0} {} {1.000} {}
 E {  861} {kneel statue} {kneel statue;st} {0} {0} {} {1.000} {}
 
@@ -5947,7 +5947,7 @@ R { 1332} {0} {} {By the Statue of an Ancient Idol} { } {A large niche has been 
 E { 1330} {e} {e} {2} {0} {} {1.000} {}
 E { 1333} {n} {n} {1} {0} {} {1.000} {}
 
-R { 1333} {0} {} {A Dark Pit} { } {The short tunnel leading away from the demonic statue leads to a dead-end.\nOn the ground, you can discern the darker shape of a large pit that\ndescends into darkness.\n} {King Solomon's Mines} {} {} {} {1.000} {}
+R { 1333} {0} {} {A Dark Pit} {t} {The short tunnel leading away from the demonic statue leads to a dead-end.\nOn the ground, you can discern the darker shape of a large pit that\ndescends into darkness.\n} {King Solomon's Mines} {} {} {} {1.000} {}
 E { 1332} {s} {s} {4} {0} {} {1.000} {}
 E { 1334} {jump pit} {jump pit} {0} {0} {} {1.000} {}
 
@@ -5978,7 +5978,7 @@ E { 1338} {e} {e} {2} {0} {} {1.000} {}
 R { 1340} {0} {} {Under Water, Inside a Mountain!} { } {You plunge under the dark surface of the lake - rather adventurous of you!\n} {King Solomon's Mines} {} {} {} {1.000} {}
 E { 1338} {u} {u} {16} {0} {} {1.000} {}
 
-R { 1341} {0} {} {A Narrow Corridor} { } {You must have arrived in an older portion of the mines. The heavy carpentry\nsupporting the corridor looks all dried-up by time and frail. The ceiling is\nlow and the corridor uncomfortable to move through.\n} {King Solomon's Mines} {} {} {} {1.000} {}
+R { 1341} {0} {} {A Narrow Corridor} {t} {You must have arrived in an older portion of the mines. The heavy carpentry\nsupporting the corridor looks all dried-up by time and frail. The ceiling is\nlow and the corridor uncomfortable to move through.\n} {King Solomon's Mines} {} {} {} {1.000} {}
 E { 1336} {e} {e} {2} {0} {} {1.000} {}
 E { 1429} {push wall} {push wall} {0} {0} {} {1.000} {}
 
@@ -6228,7 +6228,7 @@ R { 1398} {0} {} {A Humble Wineseller's Hut} { } {This small and dirty hut has v
 E { 1390} {s} {s} {4} {0} {} {1.000} {}
 E { 1399} {n} {open n;n} {1} {0} {} {1.000} {}
 
-R { 1399} {0} {} {In a Green Field} { } {Your feet sink into the warm soft earth of the field. The ground has recently\nbeen turned over here, and the old crops plowed under. You might expect the\nsmell of the exposed earth to be sweet and full of the promise of life. And\nyet -- what stretches out before you is like no farmstead you have ever\nseen. All you smell is the sourness of death and inevitable decay. There\nis something timeless and ancient about this land, something mysterious\nand unknown. No peasants are to be seen, yet you feel you are not alone here.\n} {The Silk Road} {} {} {} {1.000} {}
+R { 1399} {0} {} {In a Green Field} {t} {Your feet sink into the warm soft earth of the field. The ground has recently\nbeen turned over here, and the old crops plowed under. You might expect the\nsmell of the exposed earth to be sweet and full of the promise of life. And\nyet -- what stretches out before you is like no farmstead you have ever\nseen. All you smell is the sourness of death and inevitable decay. There\nis something timeless and ancient about this land, something mysterious\nand unknown. No peasants are to be seen, yet you feel you are not alone here.\n} {The Silk Road} {} {} {} {1.000} {}
 E { 1398} {s} {open s;s} {4} {0} {} {1.000} {}
 E { 1400} {d} {dig dirt} {32} {0} {} {1.000} {}
 E { 1400} {dig dirt} {dig dirt} {0} {0} {} {1.000} {}
@@ -7558,11 +7558,11 @@ R { 1718} {0} {} {On a Road Towards the City-State of Ur} { } {You stand on a pa
 E { 1717} {e} {e} {2} {0} {} {1.000} {}
 E { 1719} {w} {w} {8} {0} {} {1.000} {}
 
-R { 1719} {0} {} {Before the Walls of Ur} { } {Tall ochre walls made of mudbricks and sand rise here, blocking access to the\nwell-protected city of Ur. Guards patrol before the large wooden gates and\nfilter out desert bandits from respectable merchants coming to town. The city\nof Ur is a state of its own and does not pay allegiance to the larger city of\nUruk located to the northwest.\n} {Sumer} {} {} {} {1.000} {}
+R { 1719} {0} {} {Before the Walls of Ur} {t} {Tall ochre walls made of mudbricks and sand rise here, blocking access to the\nwell-protected city of Ur. Guards patrol before the large wooden gates and\nfilter out desert bandits from respectable merchants coming to town. The city\nof Ur is a state of its own and does not pay allegiance to the larger city of\nUruk located to the northwest.\n} {Sumer} {} {} {} {1.000} {}
 E { 1718} {e} {e} {2} {0} {} {1.000} {}
 E { 1720} {gate} {enq ask gate gate} {0} {0} {} {1.000} {}
 
-R { 1720} {0} {} {Inside the Walls of Ur} { } {The city-state of Ur is well defended behind tall ochre walls made out of\nrocks and sand. They raise around the whole city, protecting the many\nmerchants coming to town to sell their wares on the central market or\nvillagers coming here to seek the protection of the goddess Ishtar.\n} {Sumer} {} {} {} {1.000} {}
+R { 1720} {0} {} {Inside the Walls of Ur} {t} {The city-state of Ur is well defended behind tall ochre walls made out of\nrocks and sand. They raise around the whole city, protecting the many\nmerchants coming to town to sell their wares on the central market or\nvillagers coming here to seek the protection of the goddess Ishtar.\n} {Sumer} {} {} {} {1.000} {}
 E { 1721} {s} {s} {4} {0} {} {1.000} {}
 E { 1719} {gate} {enq ask gate gate} {0} {0} {} {1.000} {}
 
@@ -7700,11 +7700,11 @@ E { 1754} {n} {n} {1} {0} {} {1.000} {}
 R { 1753} {0} {} {The Shadows of the Outer Wall} { } {The wall that surrounds the city of Uruk has clearly been built recently.\nIt's an impressive wall which is covered with cuneiform wedges and relief\nwork. While you can't understand the cuneiform, it's clear from the relief\nwork that it taunts those who would attempt to attack the city. It's hard\nto imagine how one could attack a city with a wall like this.\n} {Sumer} {} {} {} {1.000} {}
 E { 1752} {e} {e} {2} {0} {} {1.000} {}
 
-R { 1754} {0} {} {The Great Gates of Uruk} { } {Before you stands the Great Gate of Uruk. The sheer size of the walls\nleading upto the gate and of the gate itself is amazing. The stonework\non the walls leading up to the gate is a brilliant deep blue in color\nwith stone bas-relief representing various lions, gryphons, and other\nbeasts. The gate itself is made from giant cedar trees, darkened in color\nto a red-brown.\n} {Sumer} {} {} {} {1.000} {}
+R { 1754} {0} {} {The Great Gates of Uruk} {t} {Before you stands the Great Gate of Uruk. The sheer size of the walls\nleading upto the gate and of the gate itself is amazing. The stonework\non the walls leading up to the gate is a brilliant deep blue in color\nwith stone bas-relief representing various lions, gryphons, and other\nbeasts. The gate itself is made from giant cedar trees, darkened in color\nto a red-brown.\n} {Sumer} {} {} {} {1.000} {}
 E { 1752} {s} {s} {4} {0} {} {1.000} {}
 E { 1755} {gate} {enq ask gate gate} {0} {0} {} {1.000} {}
 
-R { 1755} {0} {} {Inside the Walls of Uruk} { } {The wall that surrounds the city of Uruk has clearly been built recently. It\nis an impressive wall which is covered with cuneiform wedges and relief work.\nWhile you can't understand the cuneiform, it's clear from the relief work\nthat it taunts those who would attempt to attack the city.\n} {Sumer} {} {} {} {1.000} {}
+R { 1755} {0} {} {Inside the Walls of Uruk} {t} {The wall that surrounds the city of Uruk has clearly been built recently. It\nis an impressive wall which is covered with cuneiform wedges and relief work.\nWhile you can't understand the cuneiform, it's clear from the relief work\nthat it taunts those who would attempt to attack the city.\n} {Sumer} {} {} {} {1.000} {}
 E { 1756} {n} {n} {1} {0} {} {1.000} {}
 E { 1754} {gate} {enq ask gate gate} {0} {0} {} {1.000} {}
 
@@ -7733,7 +7733,7 @@ E { 1759} {s} {s} {4} {0} {} {1.000} {}
 E { 1762} {w} {w} {8} {0} {} {1.000} {}
 E { 1763} {n} {n} {1} {0} {} {1.000} {}
 
-R { 1762} {0} {} {Before the Great Palace of Gilgamesh, King of Uruk} { } {Before you stands a large imposing palace with two large doors guarding\nthe entrance. The walls surrounding the doors are covered with frescoed\nwork depicting various deities and praising the priest-king, Gilgamesh.\n} {Sumer} {} {} {} {1.000} {}
+R { 1762} {0} {} {Before the Great Palace of Gilgamesh, King of Uruk} {t} {Before you stands a large imposing palace with two large doors guarding\nthe entrance. The walls surrounding the doors are covered with frescoed\nwork depicting various deities and praising the priest-king, Gilgamesh.\n} {Sumer} {} {} {} {1.000} {}
 E { 1761} {e} {e} {2} {0} {} {1.000} {}
 E { 1767} {gate} {enq ask gate gate} {0} {0} {} {1.000} {}
 
@@ -7752,7 +7752,7 @@ E { 1764} {w} {w} {8} {0} {} {1.000} {}
 R { 1766} {0} {} {The Chamber of Silence} { } {This room is eerily silent and and dark. You look around, expecting to\nfind braziers waiting to be lit, but you find none. Heavy dust has\ngathered in the corners of the room, undisturbed by any draft of wind.\n} {Sumer} {} {} {} {1.000} {}
 E { 1764} {s} {s} {4} {0} {} {1.000} {}
 
-R { 1767} {0} {} {The Great Court of the Priest-King Gilgamesh} { } {The Great Court of Gilgamesh is an awe inspiring sight. The walls are three\nstories tall, the first two stories covered with relief work of giant humans,\nanimals, and mythological creatures. Winged genies, lion headed monsters and\nmany, many captured armies are shown bowing before a person who can only be\nGilgamesh, the great king of Uruk. If he is half a terrible as the reliefs\nappear to show, he is not someone you look forward to meeting.\n} {Sumer} {} {} {} {1.000} {}
+R { 1767} {0} {} {The Great Court of the Priest-King Gilgamesh} {t} {The Great Court of Gilgamesh is an awe inspiring sight. The walls are three\nstories tall, the first two stories covered with relief work of giant humans,\nanimals, and mythological creatures. Winged genies, lion headed monsters and\nmany, many captured armies are shown bowing before a person who can only be\nGilgamesh, the great king of Uruk. If he is half a terrible as the reliefs\nappear to show, he is not someone you look forward to meeting.\n} {Sumer} {} {} {} {1.000} {}
 E { 1768} {n} {n} {1} {0} {} {1.000} {}
 E { 1762} {gate} {enq ask gate gate} {0} {0} {} {1.000} {}
 
@@ -7801,11 +7801,11 @@ E { 1777} {s} {s} {4} {0} {} {1.000} {}
 E { 1779} {e} {e} {2} {0} {} {1.000} {}
 E { 1784} {n} {n} {1} {0} {} {1.000} {}
 
-R { 1779} {0} {} {Before The City of Kish} { } {You stand before the old city of Kish. Its walls are tired and badly upkept,\nwith cracks showing on many places and some parts seem ready to crumble. The\nproud king Agga of Kish has had many quarrels in the past with Sumer which so\nfar, have ended badly for the people of Kish.\n} {Sumer} {} {} {} {1.000} {}
+R { 1779} {0} {} {Before The City of Kish} {t} {You stand before the old city of Kish. Its walls are tired and badly upkept,\nwith cracks showing on many places and some parts seem ready to crumble. The\nproud king Agga of Kish has had many quarrels in the past with Sumer which so\nfar, have ended badly for the people of Kish.\n} {Sumer} {} {} {} {1.000} {}
 E { 1778} {w} {w} {8} {0} {} {1.000} {}
 E { 1780} {gate} {enq ask gate gate} {0} {0} {} {1.000} {}
 
-R { 1780} {0} {} {The City of Kish} { } {You stand in the center of the city of Kish. The city is a marvel of\narchitecture. All around you are all sorts of impressive buildings surround\nyou. It is clear that this must be the capital of the whole region. Just how\nfar the king's influence extends you can only imagine.\n} {Sumer} {} {} {} {1.000} {}
+R { 1780} {0} {} {The City of Kish} {t} {You stand in the center of the city of Kish. The city is a marvel of\narchitecture. All around you are all sorts of impressive buildings surround\nyou. It is clear that this must be the capital of the whole region. Just how\nfar the king's influence extends you can only imagine.\n} {Sumer} {} {} {} {1.000} {}
 E { 1781} {n} {n} {1} {0} {} {1.000} {}
 E { 1782} {e} {e} {2} {0} {} {1.000} {}
 E { 1779} {gate} {enq ask gate gate} {0} {0} {} {1.000} {}
@@ -9895,7 +9895,7 @@ R { 2268} {0} {} {A Rock Passage} { } {Lighter does the rock become, and fouler-
 E { 2266} {e} {e} {2} {0} {} {1.000} {}
 E { 2269} {w} {w} {8} {0} {} {1.000} {}
 
-R { 2269} {0} {} {A Blocked Tunnel} { } {You walk for what seems like hours in this abandoned tunnel, filled with thick\ndust and irregular chunks of stone which must have fallen from the ceiling. A\nstrange howl whispers in the tunnel, as if a strong wind was blowing from\nsomewhere into this natural pipe.\n} {Svartalfheim} {svart} {} {} {1.000} {}
+R { 2269} {0} {} {A Blocked Tunnel} {t} {You walk for what seems like hours in this abandoned tunnel, filled with thick\ndust and irregular chunks of stone which must have fallen from the ceiling. A\nstrange howl whispers in the tunnel, as if a strong wind was blowing from\nsomewhere into this natural pipe.\n} {Svartalfheim} {svart} {} {} {1.000} {}
 E { 2268} {e} {e} {2} {0} {} {1.000} {}
 E { 2270} {push wall} {push wall} {0} {0} {} {1.000} {}
 
@@ -9932,7 +9932,7 @@ E { 2276} {n} {n} {1} {0} {} {1.000} {}
 E { 2278} {s} {s} {4} {0} {} {1.000} {}
 E { 2279} {w} {w} {8} {0} {} {1.000} {}
 
-R { 2278} {0} {<169>} {The Entrance to Niflheim} { } {The gorge ends here before a wall of cold mists agitated by a freezing wind\ncoming from the south. According to the Legend, this is the entrance to the\nrealm of the dead and the goddess Hel, Niflheim. For sure, you don't want to\ngo anywhere south of here, as only the souls of the fallen warriors enter\nthis dreaded place.\n} {Svartalfheim} {} {} {} {1.000} {}
+R { 2278} {0} {<169>} {The Entrance to Niflheim} {t} {The gorge ends here before a wall of cold mists agitated by a freezing wind\ncoming from the south. According to the Legend, this is the entrance to the\nrealm of the dead and the goddess Hel, Niflheim. For sure, you don't want to\ngo anywhere south of here, as only the souls of the fallen warriors enter\nthis dreaded place.\n} {Svartalfheim} {} {} {} {1.000} {}
 E { 2277} {n} {n} {1} {0} {} {1.000} {}
 E { 4534} {push wall} {push wall} {0} {0} {} {1.000} {}
 
@@ -10280,7 +10280,7 @@ R { 2363} {0} {} {Entering the Udyanum} { } {Rich scents tickle your nose as the
 E { 1650} {e} {e} {2} {0} {} {1.000} {}
 E { 2364} {w} {w} {8} {0} {} {1.000} {}
 
-R { 2364} {0} {} {The Udyanum} { } {In such a place of beauty, one could easily lose track of time. Each row of\nexotic flowers invites your nose to inhale their sweet smells. It makes for a\nvisual splendor, all the colors of the rainbow brightly displayed in tasteful\narrangements of rows and displays. A carved stone fountain sits in the center\nof a vast display of stone statues depicting various scenes from the antiquity\nof the native's vast mythology. Large stone benches look inviting to rest in\nand are large enough that one may well lose themselves in sleep if they lie\nthere too long.\n} {Ancient India} {} {} {} {1.000} {}
+R { 2364} {0} {} {The Udyanum} {t} {In such a place of beauty, one could easily lose track of time. Each row of\nexotic flowers invites your nose to inhale their sweet smells. It makes for a\nvisual splendor, all the colors of the rainbow brightly displayed in tasteful\narrangements of rows and displays. A carved stone fountain sits in the center\nof a vast display of stone statues depicting various scenes from the antiquity\nof the native's vast mythology. Large stone benches look inviting to rest in\nand are large enough that one may well lose themselves in sleep if they lie\nthere too long.\n} {Ancient India} {} {} {} {1.000} {}
 E { 2363} {e} {e} {2} {0} {} {1.000} {}
 E { 5525} {sleep} {sleep;st} {0} {0} {} {1.000} {}
 
@@ -10506,7 +10506,7 @@ R { 2416} {0} {} {In a Narrow Canyon} { } {You entered a narrow canyon that curv
 E { 2415} {s} {s} {4} {0} {} {1.000} {}
 E { 2417} {w} {w} {8} {0} {} {1.000} {}
 
-R { 2417} {0} {} {The Temple of Moloch} { } {The canyon ends in a valley where stands a magnificent building supported by\nenormous columns covered with gold, and formed of a glass-like substance\nwhich begins to glitter and sparkle in a curious manner in the dim light of\nthe canyon. Before the bronze gate stands the hideous bull-headed statue\nof Moloch, with its downward-sloping hands and a fiery furnace at its feet.\n} {Ancient Carthage} {} {} {} {1.000} {}
+R { 2417} {0} {} {The Temple of Moloch} {t} {The canyon ends in a valley where stands a magnificent building supported by\nenormous columns covered with gold, and formed of a glass-like substance\nwhich begins to glitter and sparkle in a curious manner in the dim light of\nthe canyon. Before the bronze gate stands the hideous bull-headed statue\nof Moloch, with its downward-sloping hands and a fiery furnace at its feet.\n} {Ancient Carthage} {} {} {} {1.000} {}
 E { 2416} {e} {e} {2} {0} {} {1.000} {}
 E { 2418} {unlock statue} {unlock statue} {0} {0} {} {1.000} {}
 
@@ -11019,17 +11019,17 @@ E { 3605} {n} {open n;n} {1} {0} {} {1.000} {}
 R { 2538} {0} {} {At the Bottom of a Gorge, Amidst a Boiling Sea} { } {SPLASH! You hit the water with a tremendous spray of water. The boiling sea\nthrows you about as if you were a plaything in a child's hand. You feel\nsomething against your leg! Before you know it, you're surrounded by a horde\nof creatures to which there can be no names.\n} {Land of Shadows} {} {} {} {1.000} {}
 E { 1168} {u} {u} {16} {0} {} {1.000} {}
 
-R { 2539} {0} {} {On the Bridge of Leaps} { } {You stand gingerly on the bridge, each footstep making the bridge sway, the\nwind gusting through the valley only making it worse. You lose your footing\nand hold on for dear life, grasping at a rope that should have given way long\nago. You wonder how long you can maintain your balance? Long enough to get\nacross?\n} {Land of Shadows} {} {} {} {1.000} {}
+R { 2539} {0} {} {On the Bridge of Leaps} {t} {You stand gingerly on the bridge, each footstep making the bridge sway, the\nwind gusting through the valley only making it worse. You lose your footing\nand hold on for dear life, grasping at a rope that should have given way long\nago. You wonder how long you can maintain your balance? Long enough to get\nacross?\n} {Land of Shadows} {} {} {} {1.000} {}
 E { 2540} {leap} {leap} {0} {0} {} {1.000} {}
 
-R { 2540} {0} {} {In the Land of Skatha} { } {Majestic rolling hills span out to a flattened valley upon which warriors\ntrain with their spears. Divots, dug out by the footholds a spear thrower\nmakes as he hurls his weapon at targets or opponents, dot the landscape.\n} {Land of Shadows} {} {} {} {1.000} {}
+R { 2540} {0} {} {In the Land of Skatha} {t} {Majestic rolling hills span out to a flattened valley upon which warriors\ntrain with their spears. Divots, dug out by the footholds a spear thrower\nmakes as he hurls his weapon at targets or opponents, dot the landscape.\n} {Land of Shadows} {} {} {} {1.000} {}
 E { 2541} {leap} {leap} {0} {0} {} {1.000} {}
 E { 2542} {w} {w} {8} {0} {} {1.000} {}
 E { 2543} {n} {n} {1} {0} {} {1.000} {}
 E { 2545} {s} {s} {4} {0} {} {1.000} {}
 E { 6868} {e} {e} {2} {0} {} {1.000} {}
 
-R { 2541} {0} {} {On the Bridge of Leaps} { } {You stand gingerly on the bridge, each footstep making the bridge sway, the\nwind gusting through the valley only making it worse. You lose your footing\nand hold on for dear life, grasping at a rope that should have given way long\nago. You wonder how long you can maintain your balance? Long enough to get\nacross?\n} {Land of Shadows} {} {} {} {1.000} {}
+R { 2541} {0} {} {On the Bridge of Leaps} {t} {You stand gingerly on the bridge, each footstep making the bridge sway, the\nwind gusting through the valley only making it worse. You lose your footing\nand hold on for dear life, grasping at a rope that should have given way long\nago. You wonder how long you can maintain your balance? Long enough to get\nacross?\n} {Land of Shadows} {} {} {} {1.000} {}
 E { 1168} {leap} {leap} {0} {0} {} {1.000} {}
 
 R { 2542} {0} {} {In the Land of Skatha} { } {A vast flat expanse of ground is torn to shreds. Small holes in the ground\nwhere spears have placed their points make you stumble and falter as you\nwalk amongst the short stalks of green. A harsh wind blows across the plain\nsweeping with it the warcries of the warriors who are casting their spears\nin the distance.\n} {Land of Shadows} {} {} {} {1.000} {}
@@ -12194,12 +12194,12 @@ R { 2822} {0} {} {The Grove of Demeter} { } {This large grove is made of of broa
 E { 2821} {s} {s} {4} {0} {} {1.000} {}
 E { 2823} {n} {n} {1} {0} {} {1.000} {}
 
-R { 2823} {0} {} {Outside Thebes} { } {You stand outside the great polis of Thebes, founded by Cadmus, home of the\npatricide Oedipus, and famous the world over for its seven soaring gates. The\nElectran Gate, frescoes adorning its upper reaches, stands closed before you.\nIn the dim light cast by torches on either side of the gate, you can make\nout 3 short pillars upon which no birds will sit, nor beasts graze\nnear, where it is said Amphiaraus was swallowed up by the vengeful earth.\n} {Ancient Greece} {} {} {} {1.000} {}
+R { 2823} {0} {} {Outside Thebes} {t} {You stand outside the great polis of Thebes, founded by Cadmus, home of the\npatricide Oedipus, and famous the world over for its seven soaring gates. The\nElectran Gate, frescoes adorning its upper reaches, stands closed before you.\nIn the dim light cast by torches on either side of the gate, you can make\nout 3 short pillars upon which no birds will sit, nor beasts graze\nnear, where it is said Amphiaraus was swallowed up by the vengeful earth.\n} {Ancient Greece} {} {} {} {1.000} {}
 E { 2822} {s} {s} {4} {0} {} {1.000} {}
 E { 2824} {gate} {enq ask gate gate\;pause 1s} {0} {0} {} {1.000} {}
 E { 2824} {ask gate gate} {enq ask gate gate\;pause 1s} {0} {0} {} {1.000} {}
 
-R { 2824} {0} {} {Inside the Electran Gate} { } {You stand inside the soaring Electran Gate, the southernmost point inside the\nwalls of Thebes. The house of Amphitryon looms to the west, while the Temple\nof Apollo sits a short climb up the Ismenian Hill to the east. The center of\nThebes is just north of you. Torches along the walls gutter but cast a decent\namount of light.\n} {Ancient Greece} {} {} {} {1.000} {}
+R { 2824} {0} {} {Inside the Electran Gate} {t} {You stand inside the soaring Electran Gate, the southernmost point inside the\nwalls of Thebes. The house of Amphitryon looms to the west, while the Temple\nof Apollo sits a short climb up the Ismenian Hill to the east. The center of\nThebes is just north of you. Torches along the walls gutter but cast a decent\namount of light.\n} {Ancient Greece} {} {} {} {1.000} {}
 E { 2825} {w} {open w;w} {8} {0} {} {1.000} {}
 E { 3330} {e} {e} {2} {0} {} {1.000} {}
 E { 3337} {n} {n} {1} {0} {} {1.000} {}
@@ -13767,7 +13767,7 @@ E { 3193} {n} {n} {1} {0} {} {1.000} {}
 E { 3196} {s} {s} {4} {0} {} {1.000} {}
 E { 3198} {e} {e} {2} {0} {} {1.000} {}
 
-R { 3195} {0} {} {The Tenth Bowge} { } {Strange glistening vines creep up around broken columns of antiquity here. The\nunfortunate shades who roam here are all bent down and suffering from the\nonslaught of any plague or disease ever to have harvested among the living. In\nthe same gulf, other kinds of impostors, as those who have counterfeited the\npersons of others, or debased the current coin, or deceived by speech under\nfalse pretenses, are described as suffering various diseases.\n} {The Inferno} {} {} {} {1.000} {}
+R { 3195} {0} {} {The Tenth Bowge} {t} {Strange glistening vines creep up around broken columns of antiquity here. The\nunfortunate shades who roam here are all bent down and suffering from the\nonslaught of any plague or disease ever to have harvested among the living. In\nthe same gulf, other kinds of impostors, as those who have counterfeited the\npersons of others, or debased the current coin, or deceived by speech under\nfalse pretenses, are described as suffering various diseases.\n} {The Inferno} {} {} {} {1.000} {}
 E { 3196} {n} {n} {1} {0} {} {1.000} {}
 E { 3197} {w} {w} {8} {0} {} {1.000} {}
 E { 3202} {sit hand} {sit hand;st} {0} {0} {} {1.000} {}
@@ -14099,7 +14099,7 @@ E { 3273} {e} {e} {2} {0} {} {1.000} {}
 E { 3275} {s} {s} {4} {0} {} {1.000} {}
 E { 3307} {n} {n} {1} {0} {} {1.000} {}
 
-R { 3275} {0} {} {Outside the Postern Gate} { } {The road winds around the city of Mycenae here, wending its way north into the\nhills of central Greece and south to the villas and shops of Mycenae. Just\nbeside you the postern gate to the great city of Mycenae stands closed to\ntravelers. The road north appears rocky and poorly tended, and you have heard\ntell of dangerous beasts and equally dangerous men haunting the hills above.\n} {Ancient Greece} {} {} {} {1.000} {}
+R { 3275} {0} {} {Outside the Postern Gate} {t} {The road winds around the city of Mycenae here, wending its way north into the\nhills of central Greece and south to the villas and shops of Mycenae. Just\nbeside you the postern gate to the great city of Mycenae stands closed to\ntravelers. The road north appears rocky and poorly tended, and you have heard\ntell of dangerous beasts and equally dangerous men haunting the hills above.\n} {Ancient Greece} {} {} {} {1.000} {}
 E { 3274} {n} {n} {1} {0} {} {1.000} {}
 E { 3276} {s} {s} {4} {0} {} {1.000} {}
 E { 7729} {ask gate gate} {enq ask gate gate} {0} {0} {} {1.000} {}
@@ -14109,7 +14109,7 @@ R { 3276} {0} {} {Below Mycenae} { } {A league or so below the large hill on whi
 E { 3275} {n} {n} {1} {0} {} {1.000} {}
 E { 3277} {w} {w} {8} {0} {} {1.000} {}
 
-R { 3277} {0} {} {Outside the Lion Gate} { } {You are at the foot of a steep ramp that winds up to the monumental Lion Gate.\nThe gate is topped by a massive stone lintel carved in the likeness of two\nrearing lions flanking a column. Towering cliffs abut the gate to the west,\nwhile solid stone blocks half as high as a tall man form an imposing wall that\nstretches off to the east. To the southeast, in the shadow of the hillside,\nlie nine great tholos tombs. The largest must be the great tomb of Atreus,\nwhose fame is far spread, while the newest one just to the side of the path\nmust be the tomb of Electryon, recent King of Mycenae. The road turns here in\nfront of the citadel and winds down into a settlement to the east.\n} {Ancient Greece} {} {} {} {1.000} {}
+R { 3277} {0} {} {Outside the Lion Gate} {t} {You are at the foot of a steep ramp that winds up to the monumental Lion Gate.\nThe gate is topped by a massive stone lintel carved in the likeness of two\nrearing lions flanking a column. Towering cliffs abut the gate to the west,\nwhile solid stone blocks half as high as a tall man form an imposing wall that\nstretches off to the east. To the southeast, in the shadow of the hillside,\nlie nine great tholos tombs. The largest must be the great tomb of Atreus,\nwhose fame is far spread, while the newest one just to the side of the path\nmust be the tomb of Electryon, recent King of Mycenae. The road turns here in\nfront of the citadel and winds down into a settlement to the east.\n} {Ancient Greece} {} {} {} {1.000} {}
 E { 3276} {e} {e} {2} {0} {} {1.000} {}
 E { 3278} {s} {s} {4} {0} {} {1.000} {}
 E { 7722} {ask gate gate} {enq ask gate gate} {0} {0} {} {1.000} {}
@@ -15341,7 +15341,7 @@ E { 3563} {e} {e} {2} {0} {} {1.000} {}
 E { 3565} {s} {s} {4} {0} {} {1.000} {}
 E { 4475} {n} {n} {1} {0} {} {1.000} {}
 
-R { 3565} {0} {} {Near a Rocky Promontory} { } {The earthen road coming from the north ends abruptly before a high cliff that\ngives the impression that the mountains to the east fall directly here into\nthe agitated sea below. Thin pine trees grow on the cliff some meters below\nthe road and give the place a charming look, typically the kind of scenery\nthat are painted in black ink by Suibokuga artists. It seems to you that you\nsee the entrance of some cave, a few feet below where the waves blast against\nthe cliff.\n} {Medieval Japan} {} {} {} {1.000} {}
+R { 3565} {0} {} {Near a Rocky Promontory} {t} {The earthen road coming from the north ends abruptly before a high cliff that\ngives the impression that the mountains to the east fall directly here into\nthe agitated sea below. Thin pine trees grow on the cliff some meters below\nthe road and give the place a charming look, typically the kind of scenery\nthat are painted in black ink by Suibokuga artists. It seems to you that you\nsee the entrance of some cave, a few feet below where the waves blast against\nthe cliff.\n} {Medieval Japan} {} {} {} {1.000} {}
 E { 3564} {n} {n} {1} {0} {} {1.000} {}
 E { 3566} {look cave} {look cave} {0} {0} {} {1.000} {}
 
@@ -15792,7 +15792,7 @@ E { 8269} {d} {d} {32} {0} {} {1.000} {}
 R { 3671} {0} {} {The River Boyne} { } {Water refracts black sunlight off its rippling surface. The reaching limbs of\nthe trees grasp toward one another across the river. A bright ribbon of silver\nsnakes down the center of the current negotiating its way through shadowed\ndepths. The current is much stronger here. It pulls you south with an\nincreasingly stronger urgency. A deep roaring noise can be heard down river.\n} {Celtic Ireland} {} {} {} {1.000} {}
 E { 3668} {n} {n} {1} {0} {} {1.000} {}
 
-R { 3672} {0} {} {In a Small Clearing} { } {A small clearing has formed here at the banks of a shallow creek. Several\nburnt patches on the ground indicate that this is a commonly used camping\nspot, but by whom you're not sure - it's certainly cleaner than most camp\nsites you've seen along the road. The stream runs crystal clear, and looks\nextremely refreshing. The main road lies south of you, and the bush looks\nimpenetrable in every other direction.\n} {Gold Rush Melbourne} {} {} {} {1.000} {}
+R { 3672} {0} {} {In a Small Clearing} {t} {A small clearing has formed here at the banks of a shallow creek. Several\nburnt patches on the ground indicate that this is a commonly used camping\nspot, but by whom you're not sure - it's certainly cleaner than most camp\nsites you've seen along the road. The stream runs crystal clear, and looks\nextremely refreshing. The main road lies south of you, and the bush looks\nimpenetrable in every other direction.\n} {Gold Rush Melbourne} {} {} {} {1.000} {}
 E { 2966} {s} {s} {4} {0} {} {1.000} {}
 E { 7419} {ask leader elder} {enq ask leader elder} {0} {0} {} {1.000} {}
 
@@ -19021,7 +19021,7 @@ E { 4512} {s} {s} {4} {0} {} {1.000} {}
 E { 4445} {w} {w} {8} {0} {} {1.000} {}
 E { 4485} {e} {e} {2} {0} {} {1.000} {}
 
-R { 4445} {0} {} {Before a Broken Stone Bridge} { } {An old stone bridge extends to the west, above a deep narrow ravine where the\ntumultuous Kiso river roars. In the middle of its structure, the bridge is\nbroken, preventing reaching its other half that disappears in the dense trees\nof the nearby forest.\n} {Medieval Japan} {} {} {} {1.000} {}
+R { 4445} {0} {} {Before a Broken Stone Bridge} {t} {An old stone bridge extends to the west, above a deep narrow ravine where the\ntumultuous Kiso river roars. In the middle of its structure, the bridge is\nbroken, preventing reaching its other half that disappears in the dense trees\nof the nearby forest.\n} {Medieval Japan} {} {} {} {1.000} {}
 E { 4444} {e} {e} {2} {0} {} {1.000} {}
 E { 6682} {jump} {jump} {0} {0} {} {1.000} {}
 
@@ -19029,7 +19029,7 @@ R { 4446} {0} {} {A Southern Road, Near Ise} { } {You stand on a provincial road
 E { 1287} {n} {n} {1} {0} {} {1.000} {}
 E { 4796} {e} {e} {2} {0} {} {1.000} {}
 
-R { 4447} {0} {} {Sawayama Castle} { } {A large many-storied castle stands here at the top of a low hill. Its white\nbleached walls reflect the rays of moon and sun to form an impressive view.\nThe many-storied castle is the home of Ishida Mitsunari, one of the most\npowerful Daimyo of the Emperor and loyal kempaku of the young Hideyori. The\ncastle is surrounded by a spectacular park of red cherry blossoms and guarded\nby fierce, heavily armored guards.\n} {Medieval Japan} {} {} {} {1.000} {}
+R { 4447} {0} {} {Sawayama Castle} {t} {A large many-storied castle stands here at the top of a low hill. Its white\nbleached walls reflect the rays of moon and sun to form an impressive view.\nThe many-storied castle is the home of Ishida Mitsunari, one of the most\npowerful Daimyo of the Emperor and loyal kempaku of the young Hideyori. The\ncastle is surrounded by a spectacular park of red cherry blossoms and guarded\nby fierce, heavily armored guards.\n} {Medieval Japan} {} {} {} {1.000} {}
 E { 1289} {e} {e} {2} {0} {} {1.000} {}
 E { 4793} {gate} {enq ask gate gate} {0} {0} {} {1.000} {}
 
@@ -19130,12 +19130,12 @@ R { 4471} {4104} {} {} { } {} {} {} {} {} {1.000} {}
 E { 3562} {e} {e} {2} {0} {} {1.000} {}
 E { 3563} {w} {w} {8} {0} {} {1.000} {}
 
-R { 4472} {0} {} {The Merchants' Quarters} { } {You stand in the middle of a newly constructed street, dedicated to host the\nmany shops of Osaka merchants. Gathered inside the wall under the authority of\nthe clan Toyotomi, these shops make Osaka the wealthiest city of the country.\nAround you all kinds of materials are traded, from gems to weapons, art, and\nof course, silk.\n} {Medieval Japan} {} {} {} {1.000} {}
+R { 4472} {0} {} {The Merchants' Quarters} {t} {You stand in the middle of a newly constructed street, dedicated to host the\nmany shops of Osaka merchants. Gathered inside the wall under the authority of\nthe clan Toyotomi, these shops make Osaka the wealthiest city of the country.\nAround you all kinds of materials are traded, from gems to weapons, art, and\nof course, silk.\n} {Medieval Japan} {} {} {} {1.000} {}
 E { 4468} {w} {w} {8} {0} {} {1.000} {}
 E { 4473} {n} {n} {1} {0} {} {1.000} {}
 E { 6680} {ask rumuki kolat} {ask rumuki kolat} {0} {0} {} {1.000} {}
 
-R { 4473} {0} {} {Before the Powerful Castle of Osaka} { } {The deep moat of the Osakajo lies between you and the magnificent eight-story\ncastle. Sheer walls of cut rock support the delicate structure of the building\nfrom platforms of stone that overlook the moat. A wooden bridge grants access\nto the fortress, but it is patrolled by many soldiers.\n} {Medieval Japan} {} {} {} {1.000} {}
+R { 4473} {0} {} {Before the Powerful Castle of Osaka} {t} {The deep moat of the Osakajo lies between you and the magnificent eight-story\ncastle. Sheer walls of cut rock support the delicate structure of the building\nfrom platforms of stone that overlook the moat. A wooden bridge grants access\nto the fortress, but it is patrolled by many soldiers.\n} {Medieval Japan} {} {} {} {1.000} {}
 E { 4472} {s} {s} {4} {0} {} {1.000} {}
 E { 4797} {gate} {enq ask gate gate} {0} {0} {} {1.000} {}
 
@@ -19278,7 +19278,7 @@ R { 4507} {4104} {} {} { } {} {} {} {} {} {1.000} {}
 E { 4501} {w} {w} {8} {0} {} {1.000} {}
 E { 4503} {e} {e} {2} {0} {} {1.000} {}
 
-R { 4508} {0} {} {Iwadeyama Castle} { } {The small castle of Iwadeyama is the home of the powerful warlord Masamune\nDate, known to be friendly with strangers and especially with Christians. The\nfamous Daimyo has a passion for travels which can be observed in the classic\nbut unusual architecture of his stronghold. The castle itself is surrounded by\ngraceful gardens but you cannot help thinking it looks like a small residence\nfor such a powerful leader.\n} {Medieval Japan} {} {} {} {1.000} {}
+R { 4508} {0} {} {Iwadeyama Castle} {t} {The small castle of Iwadeyama is the home of the powerful warlord Masamune\nDate, known to be friendly with strangers and especially with Christians. The\nfamous Daimyo has a passion for travels which can be observed in the classic\nbut unusual architecture of his stronghold. The castle itself is surrounded by\ngraceful gardens but you cannot help thinking it looks like a small residence\nfor such a powerful leader.\n} {Medieval Japan} {} {} {} {1.000} {}
 E { 4506} {w} {w} {8} {0} {} {1.000} {}
 E { 4792} {gate} {enq ask gate gate} {0} {0} {} {1.000} {}
 
@@ -19287,7 +19287,7 @@ E { 4506} {e} {e} {2} {0} {} {1.000} {}
 E { 4510} {w} {w} {8} {0} {} {1.000} {}
 E { 4807} {n} {n} {1} {0} {} {1.000} {}
 
-R { 4510} {0} {} {The Village of Nikko} { } {The small village of Nikko resides at the foot of taller mountains to the\nwest. The village was born to host workers and visitors to the nearby sacred\nshrines hiding in the forested hills to the north.\n} {Medieval JapanExpansion} {} {} {} {1.000} {}
+R { 4510} {0} {} {The Village of Nikko} {t} {The small village of Nikko resides at the foot of taller mountains to the\nwest. The village was born to host workers and visitors to the nearby sacred\nshrines hiding in the forested hills to the north.\n} {Medieval JapanExpansion} {} {} {} {1.000} {}
 E { 4509} {e} {e} {2} {0} {} {1.000} {}
 E { 4814} {gate} {enq ask elder toshogu;pause 1s} {0} {0} {} {1.000} {}
 E { 4814} {ask elder toshogu} {enq ask elder toshogu;pause 1s} {0} {0} {} {1.000} {}
@@ -19367,7 +19367,7 @@ R { 4528} {0} {} {Passing Above a Deep Moat} { } {A strong stone wall encircled 
 E { 4527} {e} {e} {2} {0} {} {1.000} {}
 E { 4529} {w} {w} {8} {0} {} {1.000} {}
 
-R { 4529} {0} {} {Entrance Gates to Edo-jo} { } {The base of the castle is heavily guarded with many bushi controlling papers\nand identities of the few visitors. It seems to you that spies or potential\nassassins are a concern to the other of the place who ordered massive security\nmeasures. Above your head, you can see the layered roofs of the castle with\nits blue titles and white walls, dominating the city.\n} {Medieval Japan} {} {} {} {1.000} {}
+R { 4529} {0} {} {Entrance Gates to Edo-jo} {t} {The base of the castle is heavily guarded with many bushi controlling papers\nand identities of the few visitors. It seems to you that spies or potential\nassassins are a concern to the other of the place who ordered massive security\nmeasures. Above your head, you can see the layered roofs of the castle with\nits blue titles and white walls, dominating the city.\n} {Medieval Japan} {} {} {} {1.000} {}
 E { 4528} {e} {e} {2} {0} {} {1.000} {}
 E { 4800} {gate} {enq ask gate gate} {0} {0} {} {1.000} {}
 
@@ -19428,7 +19428,7 @@ R { 4543} {0} {} {Cold and Haunted Plains} { } {Nothing has ever grown on these 
 E { 4542} {w} {w} {8} {0} {} {1.000} {}
 E { 4544} {s} {s} {4} {0} {} {1.000} {}
 
-R { 4544} {0} {} {Cold and Haunted Plains} { } {Nothing has ever grown on these plains, nor has anyone here has ever felt\nthe need to cultivate these lands forgotten by the Gods. The frozen wastes of\nNiflheim sprawl in all directions, silent and monotonous. A strong wind blows,\ncarrying whispers of the fallen warriors who were denied access to Valhalla.\n} {Svartalfheim} {} {} {} {1.000} {}
+R { 4544} {0} {} {Cold and Haunted Plains} {t} {Nothing has ever grown on these plains, nor has anyone here has ever felt\nthe need to cultivate these lands forgotten by the Gods. The frozen wastes of\nNiflheim sprawl in all directions, silent and monotonous. A strong wind blows,\ncarrying whispers of the fallen warriors who were denied access to Valhalla.\n} {Svartalfheim} {} {} {} {1.000} {}
 E { 4543} {n} {n} {1} {0} {} {1.000} {}
 E { 4552} {ride sleipnir} {ride sleipnir} {0} {0} {} {1.000} {}
 
@@ -19509,7 +19509,7 @@ R { 4564} {0} {} {The Caves of Gnipahellir} { } {A powerful stench of musk and f
 E { 4557} {s} {s} {4} {0} {} {1.000} {}
 E { 4565} {n} {n} {1} {0} {} {1.000} {}
 
-R { 4565} {0} {} {The Well of Hvergelmir} { } {A huge well made of an otherworldly, beautiful metal is overflowing with clear\nand pure waters, flooding the whole area around it. It is located on top of a\nsmall hill where waters cascade from and give birth to many different rivers,\nfilled with life and fury. You can count up to twenty-six rivers sourcing\nfrom the well, all of which cascade from Niflheim into the other worlds.\n} {Svartalfheim} {} {} {} {1.000} {}
+R { 4565} {0} {} {The Well of Hvergelmir} {t} {A huge well made of an otherworldly, beautiful metal is overflowing with clear\nand pure waters, flooding the whole area around it. It is located on top of a\nsmall hill where waters cascade from and give birth to many different rivers,\nfilled with life and fury. You can count up to twenty-six rivers sourcing\nfrom the well, all of which cascade from Niflheim into the other worlds.\n} {Svartalfheim} {} {} {} {1.000} {}
 E { 4566} {n} {n} {1} {0} {} {1.000} {}
 E { 4834} {drink well} {drink well} {0} {0} {} {1.000} {}
 
@@ -19632,7 +19632,7 @@ R { 4594} {0} {<068>} {The Crossing of the Four Rivers} {W} {The four main river
 E { 4592} {w} {w} {8} {0} {} {1.000} {}
 E { 4595} {n} {n} {1} {0} {} {1.000} {}
 
-R { 4595} {0} {} {The Foot of the Celestial Mountain} { } {The Garden of Edin comes to its edge here, before a gigantic, lonely mountain\nthat rises very high into the clouds. The celestial mountain, while larger\nthan any other mountain you have ever seen, did not reveal itself to your\nsight before you stepped closer to its base.\n} {The Seven Heavens} {} {} {} {1.000} {}
+R { 4595} {0} {} {The Foot of the Celestial Mountain} {t} {The Garden of Edin comes to its edge here, before a gigantic, lonely mountain\nthat rises very high into the clouds. The celestial mountain, while larger\nthan any other mountain you have ever seen, did not reveal itself to your\nsight before you stepped closer to its base.\n} {The Seven Heavens} {} {} {} {1.000} {}
 E { 4594} {s} {s} {4} {0} {} {1.000} {}
 E { 4606} {transport} {enq ask angel transport;pause 1s;stand} {0} {0} {} {1.000} {}
 E { 4606} {ask angel transport} {enq ask angel transport;pause 1s;stand} {0} {0} {} {1.000} {}
@@ -19676,7 +19676,7 @@ R { 4605} {5130} {} {} { } {} {} {} {} {} {1.000} {}
 E { 3414} {e} {e} {2} {0} {} {1.000} {}
 E { 3416} {w} {w} {8} {0} {} {1.000} {}
 
-R { 4606} {0} {} {Inside a Simple House} { } {You are inside of simple stone house built simply under a thatched roof. There\nis no apparent fire but the place feels warm and clean. As you peek outside\nthrough the open windows you see a landscape of low hills, covered with green\ngrass bathing under a bright sunshine.\n} {The Seven Heavens} {layer2} {} {} {1.000} {}
+R { 4606} {0} {} {Inside a Simple House} {t} {You are inside of simple stone house built simply under a thatched roof. There\nis no apparent fire but the place feels warm and clean. As you peek outside\nthrough the open windows you see a landscape of low hills, covered with green\ngrass bathing under a bright sunshine.\n} {The Seven Heavens} {layer2} {} {} {1.000} {}
 E { 4607} {n} {open n;n} {1} {0} {} {1.000} {}
 E { 4595} {sleep} {sleep;st} {0} {0} {} {1.000} {}
 
@@ -19971,7 +19971,7 @@ E { 4626} {w} {open w;w} {8} {0} {} {1.000} {}
 E { 4674} {n} {open n;n} {1} {0} {} {1.000} {}
 E { 4675} {e} {e} {2} {0} {} {1.000} {}
 
-R { 4674} {0} {} {The Chamber of Command} { } {Barachiel, the angel charged with ruling the Second Heaven, holds court in\nthis large chamber filled with heavily armored angels. In this chamber he\nreceives reports of any demonic incursions in Raqia and stands guard as the\nFirst Shield to protect the Seven Heavens from infernal hordes.\n} {The Seven Heavens} {} {} {} {1.000} {}
+R { 4674} {0} {} {The Chamber of Command} {t} {Barachiel, the angel charged with ruling the Second Heaven, holds court in\nthis large chamber filled with heavily armored angels. In this chamber he\nreceives reports of any demonic incursions in Raqia and stands guard as the\nFirst Shield to protect the Seven Heavens from infernal hordes.\n} {The Seven Heavens} {} {} {} {1.000} {}
 E { 4673} {s} {open s;s} {4} {0} {} {1.000} {}
 E { 4791} {use portal} {use portal} {0} {0} {} {1.000} {}
 
@@ -20079,11 +20079,11 @@ E { 4694} {n} {n} {1} {0} {} {1.000} {}
 E { 4696} {e} {e} {2} {0} {} {1.000} {}
 E { 4699} {s} {s} {4} {0} {} {1.000} {}
 
-R { 4696} {0} {} {Before a Magnificent Temple} { } {A massive, majestic version of the smaller temple at the entrance of Zebul is\nniched here at the heart of a mountainous valley. Alpine streams cascade from\nall directions in a thundering noise and the marble stones of the temple shine\nwith a divine light. Banners of the seven members of the Hebdomad float around\nthe temple, a high place of angelic command. In front of the temple, a horde\nof souls processes for an audience, waiting to become angels in their turn.\n} {The Seven Heavens} {} {} {} {1.000} {}
+R { 4696} {0} {} {Before a Magnificent Temple} {t} {A massive, majestic version of the smaller temple at the entrance of Zebul is\nniched here at the heart of a mountainous valley. Alpine streams cascade from\nall directions in a thundering noise and the marble stones of the temple shine\nwith a divine light. Banners of the seven members of the Hebdomad float around\nthe temple, a high place of angelic command. In front of the temple, a horde\nof souls processes for an audience, waiting to become angels in their turn.\n} {The Seven Heavens} {} {} {} {1.000} {}
 E { 4695} {w} {w} {8} {0} {} {1.000} {}
 E { 4697} {ask guard gate} {ask guard gate} {0} {0} {} {1.000} {}
 
-R { 4697} {0} {} {A Marble Vestibule} { } {A hallway with marbled columns, built in the Greek Corinthian style, stretches\nbetween the heavy set of bronze double doors at the temple's entrance and\na large room at the center of the building. An aura of peace and reflection\nradiates through the whole building.\n} {The Seven Heavens} {} {} {} {1.000} {}
+R { 4697} {0} {} {A Marble Vestibule} {t} {A hallway with marbled columns, built in the Greek Corinthian style, stretches\nbetween the heavy set of bronze double doors at the temple's entrance and\na large room at the center of the building. An aura of peace and reflection\nradiates through the whole building.\n} {The Seven Heavens} {} {} {} {1.000} {}
 E { 4696} {ask guard gate} {ask guard gate} {0} {0} {} {1.000} {}
 E { 4698} {n} {n} {1} {0} {} {1.000} {}
 
@@ -20157,12 +20157,12 @@ R { 4711} {0} {} {A Lone Island on the Astral Sea} { } {You stand at the edge of
 E { 4710} {n} {n} {1} {0} {} {1.000} {}
 E { 4712} {e} {e} {2} {0} {} {1.000} {}
 
-R { 4712} {0} {} {By a Beautiful Fountain} { } {A marble fountain stands there in the middle of small clearing in the forest,\npure water flowing peacefully from it. A cherub angel plays music, enjoying\nthe quietness of the place.\n} {The Seven Heavens} {} {} {} {1.000} {}
+R { 4712} {0} {} {By a Beautiful Fountain} {t} {A marble fountain stands there in the middle of small clearing in the forest,\npure water flowing peacefully from it. A cherub angel plays music, enjoying\nthe quietness of the place.\n} {The Seven Heavens} {} {} {} {1.000} {}
 E { 4711} {w} {w} {8} {0} {} {1.000} {}
 E { 4713} {ask angel transport} {enq ask angel transport;pause 1 second;stand} {0} {0} {} {1.000} {}
 E { 4713} {transport} {enq ask angel transport;pause 1s;stand} {0} {0} {} {1.000} {}
 
-R { 4713} {0} {} {Makon, The Fifth Heaven} { } {In 'Three Enoch' the Song-Uttering Choirs are a collective class of angels\nwho frequently sing the Trisagion and reside in Makon, the Fifth Heaven,\nalongside the Sarim. They are all under the direction of Tagas, the angel\nof music.\n} {The Seven Heavens} {layer5} {} {} {1.000} {}
+R { 4713} {0} {} {Makon, The Fifth Heaven} {t} {In 'Three Enoch' the Song-Uttering Choirs are a collective class of angels\nwho frequently sing the Trisagion and reside in Makon, the Fifth Heaven,\nalongside the Sarim. They are all under the direction of Tagas, the angel\nof music.\n} {The Seven Heavens} {layer5} {} {} {1.000} {}
 E { 4714} {s} {s} {4} {0} {} {1.000} {}
 E { 4712} {sleep} {sleep;st} {0} {0} {} {1.000} {}
 
@@ -20356,7 +20356,7 @@ E { 4759} {s} {s} {4} {0} {} {1.000} {}
 R { 4757} {0} {} {A Moment of Fate} { } {This place in Primum Nobile has been transformed by the presence of a powerful\nOphanim angel residing here. The burning wheel has shaped reality around\nitself and infused the Heavens with the essence of Fate.\n} {The Seven Heavens} {} {} {} {1.000} {}
 E { 4755} {w} {w} {8} {0} {} {1.000} {}
 
-R { 4758} {0} {} {By The Celestial Well} { } {It is hard to look into the well as a beam of strong light emerges from it\nand pierces the clouds above, high into the sky. A strong wind howls around\nyou, seemingly coming from the well itself. The diameter of the shaft seems\nlarge enough for someone to jump into the well, but... who would do that?\n} {The Seven Heavens} {} {} {} {1.000} {}
+R { 4758} {0} {} {By The Celestial Well} {t} {It is hard to look into the well as a beam of strong light emerges from it\nand pierces the clouds above, high into the sky. A strong wind howls around\nyou, seemingly coming from the well itself. The diameter of the shaft seems\nlarge enough for someone to jump into the well, but... who would do that?\n} {The Seven Heavens} {} {} {} {1.000} {}
 E { 4756} {w} {w} {8} {0} {} {1.000} {}
 E { 4770} {jump well} {jump well} {0} {0} {} {1.000} {}
 
@@ -20372,7 +20372,7 @@ R { 4761} {0} {<129>} {The Halls of the Seraphim} {I} {Majestic halls built out 
 E { 4760} {w} {w} {8} {0} {} {1.000} {}
 E { 4764} {e} {e} {2} {0} {} {1.000} {}
 
-R { 4762} {0} {} {Before the Ouroboros} { } {You stand at the egde of a cliff dropping miles and miles below to the very\nbottom of the Celestial Mountain. In front of you, the round-shaped form of a\nmassive dragon biting its own tail floats in the air, acting like a portal to\nanother place.\n} {The Seven Heavens} {} {} {} {1.000} {}
+R { 4762} {0} {} {Before the Ouroboros} {t} {You stand at the egde of a cliff dropping miles and miles below to the very\nbottom of the Celestial Mountain. In front of you, the round-shaped form of a\nmassive dragon biting its own tail floats in the air, acting like a portal to\nanother place.\n} {The Seven Heavens} {} {} {} {1.000} {}
 E { 4746} {e} {e} {2} {0} {} {1.000} {}
 E { 4763} {leap} {enq leap} {0} {0} {} {1.000} {}
 
@@ -20481,7 +20481,7 @@ E {  285} {n} {n} {1} {0} {} {1.000} {}
 R { 4790} {0} {} {A Small Chapel} { } {A small roadside chapel to some saint or other forms a serene spot along the road. Carefully tended and cared for, it is still not much to look at -- but it seems a nice place to rest your body and spirit for a moment.} {Player Housing} {} {} {} {1.000} {}
 E {  302} {n} {n} {1} {0} {} {1.000} {}
 
-R { 4791} {0} {} {Frontline of the Infernal War} { } {The green hills of Raqia have been set aflame til only ash remains! Magical\nportals appear all around, opening to allow passage to hordes of malevolent\ndemons. You must find the infernal leader who controls the main portal and\nmove to him fast!\n} {The Seven Heavens} {} {} {} {1.000} {}
+R { 4791} {0} {} {Frontline of the Infernal War} {t} {The green hills of Raqia have been set aflame til only ash remains! Magical\nportals appear all around, opening to allow passage to hordes of malevolent\ndemons. You must find the infernal leader who controls the main portal and\nmove to him fast!\n} {The Seven Heavens} {} {} {} {1.000} {}
 E { 4674} {use portal} {use portal} {0} {0} {} {1.000} {}
 E { 4863} {s} {s} {4} {0} {} {1.000} {}
 E { 4864} {n} {n} {1} {0} {} {1.000} {}
@@ -20566,7 +20566,7 @@ E { 4812} {s} {s} {4} {0} {} {1.000} {}
 E { 6738} {e} {e} {2} {0} {} {1.000} {}
 E { 6738} {w} {w} {8} {0} {} {1.000} {}
 
-R { 4814} {0} {} {The Village of Nikko} { } {The small village of Nikko resides at the foot of taller mountains to the\nwest. The village was born to host workers and visitors to the nearby sacred\nshrines hiding in the forested hills to the north.\n} {Medieval JapanExpansion} {nikko} {} {} {1.000} {}
+R { 4814} {0} {} {The Village of Nikko} {t} {The small village of Nikko resides at the foot of taller mountains to the\nwest. The village was born to host workers and visitors to the nearby sacred\nshrines hiding in the forested hills to the north.\n} {Medieval JapanExpansion} {nikko} {} {} {1.000} {}
 E { 4509} {sleep} {sleep;st} {0} {0} {} {1.000} {}
 E { 5047} {n} {n} {1} {0} {} {1.000} {}
 
@@ -20852,7 +20852,7 @@ R { 4884} {0} {} {On a Stone Stairway} { } {The darkness of the cave begins to e
 E { 4883} {d} {d} {32} {0} {} {1.000} {}
 E { 4885} {u} {u} {16} {0} {} {1.000} {}
 
-R { 4885} {0} {} {Ambushed by Pirates!} { } {You dust yourself off long enough to take a brief look at your surroundings.\nYou stand in a well-lit cave, tall, probably 20 feet or more. Pillars of stone\nstretch from the floor to the ceiling, casting shadows on the corner of the\nroom. You realize that the shadows are perfect places for pirate ambushers to\nhide.\n} {The Pirates Den} {} {} {} {1.000} {}
+R { 4885} {0} {} {Ambushed by Pirates!} {t} {You dust yourself off long enough to take a brief look at your surroundings.\nYou stand in a well-lit cave, tall, probably 20 feet or more. Pillars of stone\nstretch from the floor to the ceiling, casting shadows on the corner of the\nroom. You realize that the shadows are perfect places for pirate ambushers to\nhide.\n} {The Pirates Den} {} {} {} {1.000} {}
 E { 4884} {d} {d} {32} {0} {} {1.000} {}
 E { 4886} {jail} {jail} {0} {0} {} {1.000} {}
 
@@ -20990,7 +20990,7 @@ E { 4916} {n} {n} {1} {0} {} {1.000} {}
 R { 4918} {0} {} {A Hidden Training Camp} { } {Carthaginian soldiers have set up a sturdy camp here composed of wooden huts,\ncovered with mud and assorted moss for camouflage purposes. The paths leading\nto the camp have been carefully hidden with a carpet of branches and forest\nmoss. Even the wooden barracks are difficult to spot from a distance, their\nwalls painted with the color of nearby vegetation. Around the barracks, you\nnotice cages and equipment for taming huge animals.\n} {Ancient Carthage} {} {} {} {1.000} {}
 E { 7610} {e} {e} {2} {0} {} {1.000} {}
 
-R { 4919} {0} {} {The Center of Irem} { } {This plaza at the center of the ruined city of Irem is surrounded by tall\npillars of stone. A strange aura emanates within the space as you recall the\nwords of the djinn, recall that this is where the veil between the world of\nmankind and the dreamworld of the Djinni is the thinnest.\n} {Arabian Dreams} {} {} {} {1.000} {}
+R { 4919} {0} {} {The Center of Irem} {t} {This plaza at the center of the ruined city of Irem is surrounded by tall\npillars of stone. A strange aura emanates within the space as you recall the\nwords of the djinn, recall that this is where the veil between the world of\nmankind and the dreamworld of the Djinni is the thinnest.\n} {Arabian Dreams} {} {} {} {1.000} {}
 E { 4920} {use portal} {use portal} {0} {0} {} {1.000} {}
 E { 6001} {n} {n} {1} {0} {} {1.000} {}
 
@@ -21178,7 +21178,7 @@ E { 4964} {w} {w} {8} {0} {} {1.000} {}
 E { 4968} {s} {s} {4} {0} {} {1.000} {}
 E { 4971} {e} {e} {2} {0} {} {1.000} {}
 
-R { 4964} {0} {} {The Center of the Swamp} { } {Chill winds blow the hovering mist in small circles, dancing just over the\nslow-moving, ankle-high waters. In what appears to be the center of this murky\nswamp sits a large rock, the dirt and moss creeping up its side. Next to the\nrocks stands a particularly large tree. Stretching upward, the twisted trunk\nwinds its way up into the overgrowth of foliage above your head. An occasional\nleaf will fall, swaying back and forth through the mist until landing on the\nwater, floating for a second before disappearing forever into the decay that\ngathers beneath the surface.\n} {Celtic Ireland} {} {} {} {1.000} {}
+R { 4964} {0} {} {The Center of the Swamp} {t} {Chill winds blow the hovering mist in small circles, dancing just over the\nslow-moving, ankle-high waters. In what appears to be the center of this murky\nswamp sits a large rock, the dirt and moss creeping up its side. Next to the\nrocks stands a particularly large tree. Stretching upward, the twisted trunk\nwinds its way up into the overgrowth of foliage above your head. An occasional\nleaf will fall, swaying back and forth through the mist until landing on the\nwater, floating for a second before disappearing forever into the decay that\ngathers beneath the surface.\n} {Celtic Ireland} {} {} {} {1.000} {}
 E { 4963} {e} {e} {2} {0} {} {1.000} {}
 E { 4959} {n} {n} {1} {0} {} {1.000} {}
 E { 4965} {w} {w} {8} {0} {} {1.000} {}
@@ -21453,7 +21453,7 @@ E { 5025} {s} {open s;s} {4} {0} {} {1.000} {}
 R { 5028} {0} {} {The Source of the Winds} { } {A narrow gorge ends here in front of a tall cliff. All around you, you can\nhear the harsh winds that blow, howling in an furious growl. You barely manage\nto maintain a stationary stance as you remain exposed to the celestial winds.\n} {The Seven Heavens} {} {} {} {1.000} {}
 E { 4688} {s} {s} {4} {0} {} {1.000} {}
 
-R { 5029} {0} {} {Hauptstrasse South} { } {The road here is of firmly packed earth, and your footsteps raise very little\ndust. There are piles of refuse to either side of the road, and the road\nitself is crowded with people traveling from the southern part of the town,\nwhere the administrative and service centers are, into the commercial and\nresidential districts in the northern part. There are buildings to the east\nand west, with no apparent entrances, and the road continues to the north to\nthe rest of the town, and south through the gates.\n} {Medieval Kleinstadt} {} {} {} {1.000} {}
+R { 5029} {0} {} {Hauptstrasse South} {t} {The road here is of firmly packed earth, and your footsteps raise very little\ndust. There are piles of refuse to either side of the road, and the road\nitself is crowded with people traveling from the southern part of the town,\nwhere the administrative and service centers are, into the commercial and\nresidential districts in the northern part. There are buildings to the east\nand west, with no apparent entrances, and the road continues to the north to\nthe rest of the town, and south through the gates.\n} {Medieval Kleinstadt} {} {} {} {1.000} {}
 E { 5030} {n} {n} {1} {0} {} {1.000} {}
 E {  934} {gate} {enq ask gate gate} {0} {0} {} {1.000} {}
 E {  934} {ask gate gate} {enq ask gate gate} {0} {0} {} {1.000} {}
@@ -21540,7 +21540,7 @@ E { 5043} {w} {open w;w} {8} {0} {} {1.000} {}
 R { 5046} {0} {} {A Backroom in the Temple} { } {A well-lit room at the back of the temple is used by the Cherubim as grounds\nto spar and improve their fencing techniques.\n} {The Seven Heavens} {} {} {} {1.000} {}
 E { 4698} {u} {u} {16} {0} {} {1.000} {}
 
-R { 5047} {0} {} {The Shinkyo Bridge} { } {You stand on the sacred Shinkyo bridge, a red lacquered span that arches\ngracefully across the Daiya River. The Shinkyo is considered one of the most\nbeautiful structures in Japan, its simple elegance contrasting with the\nwildness of the river gorge, the green hills, and the tumbling waters.\n} {Medieval JapanExpansion} {} {} {} {1.000} {}
+R { 5047} {0} {} {The Shinkyo Bridge} {t} {You stand on the sacred Shinkyo bridge, a red lacquered span that arches\ngracefully across the Daiya River. The Shinkyo is considered one of the most\nbeautiful structures in Japan, its simple elegance contrasting with the\nwildness of the river gorge, the green hills, and the tumbling waters.\n} {Medieval JapanExpansion} {} {} {} {1.000} {}
 E { 4814} {s} {s} {4} {0} {} {1.000} {}
 E { 5048} {n} {n} {1} {0} {} {1.000} {}
 E {  417} {jump bridge} {enq jump bridge} {0} {2} {} {1.000} {}
@@ -21784,7 +21784,7 @@ R { 5106} {0} {} {A Steep Path} { } {You stand astride a steep path. You are jus
 E { 5105} {n} {n} {1} {0} {} {1.000} {}
 E { 5107} {u} {u} {16} {0} {} {1.000} {}
 
-R { 5107} {0} {} {A Grove of Black Poplars} { } {You are among the stately limbs and boughs of a grove of black poplars. Tall,\nthin trunks rise on all sides of you, obscuring your view of the great Rivers\nbelow. A cavern opens below, and the reek of sulphur and brimstone suggest it\nmay be the path out mentioned in legend.\n} {Tartarus} {} {} {} {1.000} {}
+R { 5107} {0} {} {A Grove of Black Poplars} {t} {You are among the stately limbs and boughs of a grove of black poplars. Tall,\nthin trunks rise on all sides of you, obscuring your view of the great Rivers\nbelow. A cavern opens below, and the reek of sulphur and brimstone suggest it\nmay be the path out mentioned in legend.\n} {Tartarus} {} {} {} {1.000} {}
 E { 5106} {d} {d} {32} {0} {} {1.000} {}
 E { 3267} {s} {s} {4} {1} {} {1.000} {}
 E { 3897} {w} {w} {8} {1} {} {1.000} {}
@@ -22915,7 +22915,7 @@ E { 5374} {n} {n} {1} {0} {} {1.000} {}
 R { 5373} {0} {<129>} {The Headless Goat} {I} {A large fire in the center of the room burns constantly, and some kind of\nspitted animal rotates over the fire. Thick smoke blackens the ceiling and\nchokes your lungs before drifting up through a hole in the ceiling. The back of\nthe room is dominated by a large stone carving, doubtless the source of the\ninn's name.\n} {The Silk Road} {} {} {} {1.000} {}
 E { 5372} {e} {e} {2} {0} {} {1.000} {}
 
-R { 5374} {0} {} {At the Yellow River Ford, outside Lanzhou} { } {The Yellow River rushes by, wide, swift and muddy. The river is yellow from the\ndirt and silt which fills its water. A few guards look at you suspiciously as\nyou eye the waters. Attempting to cross without paying the requisite fee would\nnot be accepted easily. The river crossing, and whatever pennies it might\nextract for them, is the only source of income for the people of Lanzhou. A few\nanimal-skin rafts are drawn up to the shore, waiting for a caravan to seek\npassage.\n} {The Silk Road} {} {} {} {1.000} {}
+R { 5374} {0} {} {At the Yellow River Ford, outside Lanzhou} {t} {The Yellow River rushes by, wide, swift and muddy. The river is yellow from the\ndirt and silt which fills its water. A few guards look at you suspiciously as\nyou eye the waters. Attempting to cross without paying the requisite fee would\nnot be accepted easily. The river crossing, and whatever pennies it might\nextract for them, is the only source of income for the people of Lanzhou. A few\nanimal-skin rafts are drawn up to the shore, waiting for a caravan to seek\npassage.\n} {The Silk Road} {} {} {} {1.000} {}
 E { 5372} {s} {s} {4} {0} {} {1.000} {}
 E { 6437} {give 25 coins toll} {give 25 coins toll} {0} {0} {} {1.000} {}
 
@@ -23546,7 +23546,7 @@ E { 4957} {e} {open e;e} {2} {0} {} {1.000} {}
 R { 5524} {0} {} {A Family Camp} { } {Judging by the number of small hammocks suspended from the trees, this would\nhave to be a family camp, and one with several young children. Perhaps it\nbelongs to more than one family even, because there are several adult sized\nhammocks here too. The ground is completely cleared here, and compacted into\na smooth surface, and in between the root buttresses you notice discarded toys\nand carvings in the wood.\n} {Aboriginal Dreamtime} {} {} {} {1.000} {}
 E { 4957} {n} {n} {1} {0} {} {1.000} {}
 
-R { 5525} {0} {} {Upon the Ancient Battlefield} { } {The scent of fresh blood and the red-soaked earth sinking slowly beneath your\nfeet send a chill up your spine. Whispering winds blow swiftly past your\ncheeks carry the smells of battle. A vast field expands in every direction.\nRolling hills in the distance, withering green grass beneath fresh blood,\nweapons -- painted red, broken and discarded, lie scattered as far as the\neye can see. A chariot wheel seemingly gripping on to a broken axle sits no\nmore than a hand full of yards beyond you. A dying horse, still whimpering\nits last breath and blood seeping from gaping wounds, cries out then falls\nsilent. Could Visnu allow such carnage, such bloodshed amongst such peaceful\npeople?\n} {Ancient India} {} {} {} {1.000} {}
+R { 5525} {0} {} {Upon the Ancient Battlefield} {t} {The scent of fresh blood and the red-soaked earth sinking slowly beneath your\nfeet send a chill up your spine. Whispering winds blow swiftly past your\ncheeks carry the smells of battle. A vast field expands in every direction.\nRolling hills in the distance, withering green grass beneath fresh blood,\nweapons -- painted red, broken and discarded, lie scattered as far as the\neye can see. A chariot wheel seemingly gripping on to a broken axle sits no\nmore than a hand full of yards beyond you. A dying horse, still whimpering\nits last breath and blood seeping from gaping wounds, cries out then falls\nsilent. Could Visnu allow such carnage, such bloodshed amongst such peaceful\npeople?\n} {Ancient India} {} {} {} {1.000} {}
 E { 5526} {e} {e} {2} {0} {} {1.000} {}
 E { 2364} {sleep} {sleep;st} {0} {0} {} {1.000} {}
 E { 5533} {n} {n} {1} {0} {} {1.000} {}
@@ -24000,7 +24000,7 @@ E { 5241} {n} {n} {1} {0} {} {1.000} {}
 R { 5637} {0} {} {The Priest's Hut} { } {Ornate red-and-green painted latticework guards one side of the hut. The art\nis crudely done, but it is still good to see the old Hindu faith kept here,\ndespite the encroachment of the pale English beliefs. Behind the lattice is a\nsmall worship area, with small paintings and iconic representations of various\ngods. The rest of the hut is bare and not very comfortable--the priest must\nlive off of the donations of the village members.\n} {Seoni Jungle India} {} {} {} {1.000} {}
 E {  881} {s} {s} {4} {0} {} {1.000} {}
 
-R { 5638} {0} {<149>} {The Curio Shop} {V} {Proudly displayed in the window is an edition of Blake's 'Songs of\nExperience,' and an odd looking metal contraption carefully labeled 'orrery'\ndominates the room. This curio shop is clearly a haven for the eccentric. A\nwhole shelf is marked 'treasure maps,' and the hardwood floor has bizarre,\nperhaps pagan symbols scratched into it. The glass window provides a view of\nthe alley opening across the street, and in the poor lighting in here, it\nseems to waver like a gaping maw.\n} {London Port} {} {indtown} {} {1.000} {}
+R { 5638} {0} {<149>} {The Curio Shop} {V} {Proudly displayed in the window is an edition of Blake's 'Songs of\nExperience,' and an odd looking metal contraption carefully labeled 'orrery'\ndominates the room. This curio shop is clearly a haven for the eccentric. A\nwhole shelf is marked 'treasure maps,' and the hardwood floor has bizarre,\nperhaps pagan symbols scratched into it. The glass window provides a view of\nthe alley opening across the street, and in the poor lighting in here, it\nseems to waver like a gaping maw.\n} {London Port} {curio} {indtown} {} {1.000} {}
 E {    6} {s} {open s;s} {4} {0} {} {1.000} {}
 
 R { 5639} {0} {} {Entrance to the Long House} { } {You enter into the darkened room, a musty smell pervades the air. The walls\nare covered with sheets of rough elm bark stripped from massive trees. The\nfloor is nothing but hard packed dirt. You think you can see the outline of a\ndoor leading further into the house in the south wall of the room. A doorway\nleads back out to the north.\n} {French Indian War} {} {} {} {1.000} {}
@@ -25562,18 +25562,18 @@ E { 6002} {w} {w} {8} {0} {} {1.000} {}
 R { 6002} {0} {} {The Deep Desert} { } {Step after miserable step, you finally reach the top of the searing dunes.\nYour intuition suggested that this desert was timeless and endless and now\nyou can confirm it.\n} {Arabian Dreams} {} {} {} {1.000} {}
 E { 6001} {e} {e} {2} {0} {} {1.000} {}
 
-R { 6003} {0} {} {Tunneling Inside the Burial Mound} { } {You dig in the earth for a while and your shovel strikes yet another rivet.\nYou notice that the dirt around it is darker so you widen the area around it\na bit. It looks as if it could have once been a beam of a ship. You shrug\nphilosophically\; you are looking for treasure not rotten boats. You think if\nyou open the tunnel a bit wider, you might be able to find where the treasure\nis buried.\n} {Medieval Britain} {} {} {} {1.000} {}
+R { 6003} {0} {} {Tunneling Inside the Burial Mound} {t} {You dig in the earth for a while and your shovel strikes yet another rivet.\nYou notice that the dirt around it is darker so you widen the area around it\na bit. It looks as if it could have once been a beam of a ship. You shrug\nphilosophically\; you are looking for treasure not rotten boats. You think if\nyou open the tunnel a bit wider, you might be able to find where the treasure\nis buried.\n} {Medieval Britain} {} {} {} {1.000} {}
 E {   13} {open hole} {open hole;st} {0} {0} {} {1.000} {}
 E {  282} {w} {w} {8} {0} {} {1.000} {}
 
 R { 6004} {0} {} {Irem, City of Pillars} { } {You reach a dead-end in the maze of cyclopean ruins that emerge from the hot\nsands of the desert. The center of the city is visible from here, a tall hill\na few miles to the south.\n} {Arabian Dreams} {} {} {} {1.000} {}
 E { 5993} {n} {n} {1} {0} {} {1.000} {}
 
-R { 6005} {0} {} {The Center of Irem} { } {This plaza at the center of the ruined city of Irem is surrounded by tall\npillars of stone. A strange aura emanates within the space as you recall the\nwords of the djinn, recall that this is where the veil between the world of\nmankind and the dreamworld of the Djinni is the thinnest.\n} {Arabian Dreams} {} {} {} {1.000} {}
+R { 6005} {0} {} {The Center of Irem} {t} {This plaza at the center of the ruined city of Irem is surrounded by tall\npillars of stone. A strange aura emanates within the space as you recall the\nwords of the djinn, recall that this is where the veil between the world of\nmankind and the dreamworld of the Djinni is the thinnest.\n} {Arabian Dreams} {} {} {} {1.000} {}
 E { 6006} {use portal} {use portal} {0} {0} {} {1.000} {}
 E { 5989} {n} {n} {1} {0} {} {1.000} {}
 
-R { 6006} {0} {} {Inside the City of Brass} { } {You stand at the gates to the gigantic famed city that Djinni, Efreet, and\nfire elementals call home: the City of Brass. Around you rise tall minarets,\nspires of metal, and golden domes. The streets of the city are large and paved\nwith a dark volcanic rock while giant torches and lava pools glow, casting\nshadows on the brass walls of the city's buildings.\n} {Arabian Dreams} {} {} {} {1.000} {}
+R { 6006} {0} {} {Inside the City of Brass} {t} {You stand at the gates to the gigantic famed city that Djinni, Efreet, and\nfire elementals call home: the City of Brass. Around you rise tall minarets,\nspires of metal, and golden domes. The streets of the city are large and paved\nwith a dark volcanic rock while giant torches and lava pools glow, casting\nshadows on the brass walls of the city's buildings.\n} {Arabian Dreams} {} {} {} {1.000} {}
 E { 6005} {use portal} {use portal} {0} {0} {} {1.000} {}
 E { 6007} {s} {s} {4} {0} {} {1.000} {}
 
@@ -25613,7 +25613,7 @@ E { 6014} {n} {n} {1} {0} {} {1.000} {}
 R { 6014} {0} {} {The Red Wyrm Foundry} { } {A wide foundry rises at the end of the Street of Fiery Sands, near the\noutskirts of the city. It is busy and hot with cauldrons of molten lava, which\nare used to melt the hardest metals to craft into the armaments and jewels the\nefreeti and djinni are so fond of.\n} {Arabian Dreams} {} {} {} {1.000} {}
 E { 6013} {s} {s} {4} {0} {} {1.000} {}
 
-R { 6015} {0} {} {Near a Door to the Sewers} { } {The solid and ancient pavement of the main avenue is gone, leaving a street\ncovered is scalding black sands in its stead. The buildings have tall metal\nwalls with spiking minarets and sublime magician towers, making the street\nfeel narrow and dangerous.\n} {Arabian Dreams} {} {} {} {1.000} {}
+R { 6015} {0} {} {Near a Door to the Sewers} {t} {The solid and ancient pavement of the main avenue is gone, leaving a street\ncovered is scalding black sands in its stead. The buildings have tall metal\nwalls with spiking minarets and sublime magician towers, making the street\nfeel narrow and dangerous.\n} {Arabian Dreams} {} {} {} {1.000} {}
 E { 6012} {n} {n} {1} {0} {} {1.000} {}
 E { 7499} {push door} {push door} {0} {0} {} {1.000} {}
 
@@ -27146,7 +27146,7 @@ R { 6400} {0} {} {On the Spiral Staircase} { } {As you reach out to steady yours
 E { 5256} {d} {d} {32} {0} {} {1.000} {}
 E { 6401} {u} {u} {16} {0} {} {1.000} {}
 
-R { 6401} {0} {} {The Top of the Belltower} { } {The room you find yourself in is completely bare. Even the bells have been\nremoved, and boards now cover the hole in the ceiling. Plain leaded glass fills\nthe windows on each side of the little square room, but the glass is so clouded\nwith age that it is impossible to see out to the surrounding countryside. You\ncould certainly count on not being bothered by another human soul if you chose\nto sleep here for awhile, but in this cheerless room, your dreams would likely\nbe nightmares.\n} {Saint Denis Abbey} {} {} {} {1.000} {}
+R { 6401} {0} {} {The Top of the Belltower} {t} {The room you find yourself in is completely bare. Even the bells have been\nremoved, and boards now cover the hole in the ceiling. Plain leaded glass fills\nthe windows on each side of the little square room, but the glass is so clouded\nwith age that it is impossible to see out to the surrounding countryside. You\ncould certainly count on not being bothered by another human soul if you chose\nto sleep here for awhile, but in this cheerless room, your dreams would likely\nbe nightmares.\n} {Saint Denis Abbey} {} {} {} {1.000} {}
 E { 6400} {d} {d} {32} {0} {} {1.000} {}
 E { 7619} {sleep} {sleep;st} {0} {0} {} {1.000} {}
 
@@ -28741,7 +28741,7 @@ E { 6790} {e} {e} {2} {0} {} {1.000} {}
 R { 6790} {0} {} {The Perma Booth} { } {Once housed in the arcade, the Perma Booth was moved after complaints of\ncustomers disappearing, mistaking it for the photo booth. Tragically, a\nnumber of small children were among the victims. Soothing bossa nova is\nbeing piped into the room through an array of tinny speakers.\n} {The Out of Character Lounge} {} {} {} {1.000} {}
 E { 6789} {w} {w} {8} {0} {} {1.000} {}
 
-R { 6791} {0} {} {The Entrance to the Immortal Office Complex} { } {Drafty, it seems, this small little hall, probably a direct result of\nthe busy little construction workers ripping out a few walls and casting\ntheir debris down a chute to a dumpster below. A sign is haphazardly\nplaced indicating which floor belongs to which department. A rather\nlarge sign seems to list a directory of all the immortals.\n} {The Out of Character Lounge} {} {} {} {1.000} {}
+R { 6791} {0} {} {The Entrance to the Immortal Office Complex} {t} {Drafty, it seems, this small little hall, probably a direct result of\nthe busy little construction workers ripping out a few walls and casting\ntheir debris down a chute to a dumpster below. A sign is haphazardly\nplaced indicating which floor belongs to which department. A rather\nlarge sign seems to list a directory of all the immortals.\n} {The Out of Character Lounge} {} {} {} {1.000} {}
 E {  394} {d} {d} {32} {0} {} {1.000} {}
 E { 6836} {push 1} {push 1} {0} {0} {} {1.000} {}
 E { 6844} {push 2} {push 2} {0} {0} {} {1.000} {}
@@ -28750,7 +28750,7 @@ E { 6849} {push 4} {push 4} {0} {0} {} {1.000} {}
 E { 6850} {push penthouse} {push penthouse} {0} {0} {} {1.000} {}
 E { 6792} {push basement} {push basement} {0} {0} {} {1.000} {}
 
-R { 6792} {0} {} {A Dank, Gloomy Entrance to the Catacombs} { } {Dark. That's the easiest way to describe what you've wandered in to. It's dark\nand foreboding and the small bit of light merely casts terrible, frightening\nshadows across the walls and ground. None of the ways seem to welcome visitors\nand you think that perhaps you should turn back. There are four dusty, faded\nsigns that appear to be maps of some kind.\n} {The Out of Character Lounge} {} {} {} {1.000} {}
+R { 6792} {0} {} {A Dank, Gloomy Entrance to the Catacombs} {t} {Dark. That's the easiest way to describe what you've wandered in to. It's dark\nand foreboding and the small bit of light merely casts terrible, frightening\nshadows across the walls and ground. None of the ways seem to welcome visitors\nand you think that perhaps you should turn back. There are four dusty, faded\nsigns that appear to be maps of some kind.\n} {The Out of Character Lounge} {} {} {} {1.000} {}
 E { 6793} {n} {n} {1} {0} {} {1.000} {}
 E { 6803} {e} {e} {2} {0} {} {1.000} {}
 E { 6802} {w} {w} {8} {0} {} {1.000} {}
@@ -28929,7 +28929,7 @@ E { 6833} {w} {w} {8} {0} {} {1.000} {}
 R { 6835} {0} {} {Kaige's Office} { } {You crawl through a maze of yellow plastic tubes until you come to an open\nspace. Cedar chips line the floor and an empty water bottle hangs from the\nceiling. You rummage for a bit in the chips and come up with a handful of\ncorn, sunflower seeds and pellets. You fear if you stay here too long you\nmay be turned into some kind of rodent. Every once in a while, you hear\nnervous, scurrying sounds coming from one of tubes that leads off in one\nof the many directions.\n} {The Out of Character Lounge} {} {} {} {1.000} {}
 E { 6833} {e} {e} {2} {0} {} {1.000} {}
 
-R { 6836} {0} {} {The Builder's Floor} { } {You nearly stumble over the tons of various pieces of acts and mobs that lie\nstrewn about the floor. It looks as if all the builders revolted and opened\ntheir doors, throwing bits and pieces of the various areas of the mud all\nover the floor. All items seem to surround a board upon which thousands of\nscrawlings by various builders have been scratched. They seem to be written\nin blood, sweat, tears, or a mixture of all three. Beside the board a sign\ncan barely be seen poking through with directions to each office on it.\n} {The Out of Character Lounge} {} {} {} {1.000} {}
+R { 6836} {0} {} {The Builder's Floor} {t} {You nearly stumble over the tons of various pieces of acts and mobs that lie\nstrewn about the floor. It looks as if all the builders revolted and opened\ntheir doors, throwing bits and pieces of the various areas of the mud all\nover the floor. All items seem to surround a board upon which thousands of\nscrawlings by various builders have been scratched. They seem to be written\nin blood, sweat, tears, or a mixture of all three. Beside the board a sign\ncan barely be seen poking through with directions to each office on it.\n} {The Out of Character Lounge} {} {} {} {1.000} {}
 E { 6837} {w} {w} {8} {0} {} {1.000} {}
 E { 6791} {push g} {push g} {0} {0} {} {1.000} {}
 E { 6844} {push 2} {push 2} {0} {0} {} {1.000} {}
@@ -28965,7 +28965,7 @@ E { 6840} {n} {n} {1} {0} {} {1.000} {}
 R { 6843} {0} {} {} { } {} {} {} {} {} {1.000} {}
 E { 6837} {u} {u} {16} {0} {} {1.000} {}
 
-R { 6844} {0} {} {The Coder's Floor} { } {What seems like an infinite blur of variables and integers and all\nkinds of messy equations and for-loops greets you as you pass through\nthis part of the hall. You wonder exactly what to make of all this,\nbut assume that it must work or you wouldn't be standing here.\n} {The Out of Character Lounge} {} {} {} {1.000} {}
+R { 6844} {0} {} {The Coder's Floor} {t} {What seems like an infinite blur of variables and integers and all\nkinds of messy equations and for-loops greets you as you pass through\nthis part of the hall. You wonder exactly what to make of all this,\nbut assume that it must work or you wouldn't be standing here.\n} {The Out of Character Lounge} {} {} {} {1.000} {}
 E { 6845} {w} {w} {8} {0} {} {1.000} {}
 E { 6791} {push g} {push g} {0} {0} {} {1.000} {}
 E { 6836} {push 1} {push 1} {0} {0} {} {1.000} {}
@@ -28985,7 +28985,7 @@ E { 6845} {n} {n} {1} {0} {} {1.000} {}
 R { 6847} {0} {} {} { } {} {} {} {} {} {1.000} {}
 E { 6845} {s} {s} {4} {0} {} {1.000} {}
 
-R { 6848} {0} {} {The Player Relations Floor} { } {Plain and tranquil, this hallway seems somewhat sanitary with its pure white\nwalls and its not-too-ornate wooden posts. Doors line either side of the\nhallway, each leading to an office of a member of the player relations team.\n} {The Out of Character Lounge} {} {} {} {1.000} {}
+R { 6848} {0} {} {The Player Relations Floor} {t} {Plain and tranquil, this hallway seems somewhat sanitary with its pure white\nwalls and its not-too-ornate wooden posts. Doors line either side of the\nhallway, each leading to an office of a member of the player relations team.\n} {The Out of Character Lounge} {} {} {} {1.000} {}
 E { 6851} {w} {w} {8} {0} {} {1.000} {}
 E { 6791} {push g} {push g} {0} {0} {} {1.000} {}
 E { 6836} {push 1} {push 1} {0} {0} {} {1.000} {}
@@ -28994,7 +28994,7 @@ E { 6849} {push 4} {push 4} {0} {0} {} {1.000} {}
 E { 6850} {push penthouse} {push penthouse} {0} {0} {} {1.000} {}
 E { 6792} {push basement} {push basement} {0} {0} {} {1.000} {}
 
-R { 6849} {0} {} {The Department Heads Floor} { } {Dark mahogany floors and woodwork contrast wonderfully with the large,\nhand-blown glass windows spaced evenly along this plush hallway. Images of\nlush rain forests and peaceful beach fronts have been framed in matching\nmahogany frames, words of encouragement noted at the bottom. Though, the\nposter of a cat hanging from a tree branch seems a bit out of place. On the\nposter a note of 'Just Hang in There' has been hastily written on it with....\noh, with Sharpie. Yup, '<3 Lamia' can be found at the very bottom of the\npicture. Good luck getting the tape off the wall.\n} {The Out of Character Lounge} {} {} {} {1.000} {}
+R { 6849} {0} {} {The Department Heads Floor} {t} {Dark mahogany floors and woodwork contrast wonderfully with the large,\nhand-blown glass windows spaced evenly along this plush hallway. Images of\nlush rain forests and peaceful beach fronts have been framed in matching\nmahogany frames, words of encouragement noted at the bottom. Though, the\nposter of a cat hanging from a tree branch seems a bit out of place. On the\nposter a note of 'Just Hang in There' has been hastily written on it with....\noh, with Sharpie. Yup, '<3 Lamia' can be found at the very bottom of the\npicture. Good luck getting the tape off the wall.\n} {The Out of Character Lounge} {} {} {} {1.000} {}
 E { 6853} {w} {w} {8} {0} {} {1.000} {}
 E { 6856} {e} {e} {2} {0} {} {1.000} {}
 E { 6791} {push g} {push g} {0} {0} {} {1.000} {}
@@ -29004,7 +29004,7 @@ E { 6848} {push 3} {push 3} {0} {0} {} {1.000} {}
 E { 6850} {push penthouse} {push penthouse} {0} {0} {} {1.000} {}
 E { 6792} {push basement} {push basement} {0} {0} {} {1.000} {}
 
-R { 6850} {0} {} {The Immortal Lounge} { } {A room totally encased in glass, from here you can see all points of Legend.\nSomehow the skies seem to shift and fold through the ages allowing you to see\nand hear everything that is going on everywhere. Around the edge are benches\ncuriously upholstered with nothing but bean bag-like cushions. A large pile\nof Nerf toys are arranged in a pyramid in the center of the room, just in\ncase anyone needs to be beaned with one during a heated argument.\n} {The Out of Character Lounge} {} {} {} {1.000} {}
+R { 6850} {0} {} {The Immortal Lounge} {t} {A room totally encased in glass, from here you can see all points of Legend.\nSomehow the skies seem to shift and fold through the ages allowing you to see\nand hear everything that is going on everywhere. Around the edge are benches\ncuriously upholstered with nothing but bean bag-like cushions. A large pile\nof Nerf toys are arranged in a pyramid in the center of the room, just in\ncase anyone needs to be beaned with one during a heated argument.\n} {The Out of Character Lounge} {} {} {} {1.000} {}
 E { 6859} {n} {n} {1} {0} {} {1.000} {}
 E { 6860} {s} {s} {4} {0} {} {1.000} {}
 E { 6791} {push g} {push g} {0} {0} {} {1.000} {}
@@ -29338,7 +29338,7 @@ E { 6931} {n} {n} {1} {0} {} {1.000} {}
 E { 6932} {s} {s} {4} {0} {} {1.000} {}
 E { 6934} {e} {e} {2} {0} {} {1.000} {}
 
-R { 6931} {0} {} {The Entrance of an Abandoned Tin Mine} { } {An old but still sturdy heavy wooden door closes the entrance of an old tin\nmine, built underground. A broken waterwheel still sits by the entrance as if\ntrying to still prevent the floods from the waterlogged moors which so often\ncause extreme danger to miners. A man-made leat, still flowing with water,\ndisappears under the heavy door into the depth of the mines.\n} {Dartmoor} {} {} {} {1.000} {}
+R { 6931} {0} {} {The Entrance of an Abandoned Tin Mine} {t} {An old but still sturdy heavy wooden door closes the entrance of an old tin\nmine, built underground. A broken waterwheel still sits by the entrance as if\ntrying to still prevent the floods from the waterlogged moors which so often\ncause extreme danger to miners. A man-made leat, still flowing with water,\ndisappears under the heavy door into the depth of the mines.\n} {Dartmoor} {} {} {} {1.000} {}
 E { 6930} {s} {s} {4} {0} {} {1.000} {}
 E { 6950} {push wheel} {push wheel} {0} {0} {} {1.000} {}
 
@@ -29375,7 +29375,7 @@ E { 6940} {e} {e} {2} {0} {} {1.000} {}
 R { 6939} {0} {} {At Bowerman's Nose} { } {You stand before a spectacular stack of weathered granite which has a visibly\ncrystalline texture, sitting flat on the high moor. Local tales named this\nplace after a hunter who was turned to stone by an angry coven of witches.\nWith a little imagination, it is possible to see something resembling a human\nface in the rocky outline.\n} {Dartmoor} {} {} {} {1.000} {}
 E { 6938} {n} {n} {1} {0} {} {1.000} {}
 
-R { 6940} {0} {} {At Dinger Tor} { } {Before you, a tor of granite rocks emerges from the ground. Slabs of stone\nare piled on each other, mimicking a solid cyclopean masonry structure. Back\nin the days when Celt tribes wandered the moor, tales said that Dinger Tor was\nthe summer residence of a nasty giant. Nothing today is left from his stay,\nhowever -- the place's flora has grown wild and untamed.\n} {Dartmoor} {} {} {} {1.000} {}
+R { 6940} {0} {} {At Dinger Tor} {t} {Before you, a tor of granite rocks emerges from the ground. Slabs of stone\nare piled on each other, mimicking a solid cyclopean masonry structure. Back\nin the days when Celt tribes wandered the moor, tales said that Dinger Tor was\nthe summer residence of a nasty giant. Nothing today is left from his stay,\nhowever -- the place's flora has grown wild and untamed.\n} {Dartmoor} {} {} {} {1.000} {}
 E { 6938} {w} {w} {8} {0} {} {1.000} {}
 E { 6945} {put kettle slab} {put kettle slab} {0} {0} {} {1.000} {}
 
@@ -29471,7 +29471,7 @@ E { 6915} {u} {u} {16} {0} {} {1.000} {}
 
 R { 6965} {0} {} {SURROUNDED BY A COVEN OF WITCHES} { } {You cannot see any exit to the small clearing filled with thick and cold\nmagical mists. The air is filled with a melancholic melody of flutes that\nstarts to lead you into deep slumber.\n} {Dartmoor} {} {} {} {1.000} {}
 
-R { 6966} {0} {} {A Hidden Chamber} { } {The chamber is filled with a curious light, though no source can be found. A\nsmall shrine sits in the corner, dedicated to some long-forgotten gods or\ngoddesses. There seems to be no obvious entrance or exit, leaving one to\nwonder how you came to be stuck in such a place.\n} {PR Mansion} {} {} {} {1.000} {}
+R { 6966} {0} {} {A Hidden Chamber} {t} {The chamber is filled with a curious light, though no source can be found. A\nsmall shrine sits in the corner, dedicated to some long-forgotten gods or\ngoddesses. There seems to be no obvious entrance or exit, leaving one to\nwonder how you came to be stuck in such a place.\n} {PR Mansion} {} {} {} {1.000} {}
 E { 1350} {worship} {worship} {0} {0} {} {1.000} {}
 
 R { 6967} {0} {} {A Sacred Grove} { } {This little grove in the woods has been carefully tended and arranged,\nencouraging certain trees to thrive, and planting some that did not used\nto be here. There is no altar, no sign at all that might indicate that\nman has a presence here, and yet there is an unmistakable feeling to\nthe place. The shadowy kindness of the trees encourages you to sit here\nawhile, and a small spring provides refreshment.\n} {PR Mansion} {} {} {} {1.000} {}
@@ -30164,7 +30164,7 @@ R { 7133} {0} {} {Passing the Aleksander Archipelagos} { } {The waters to the ea
 E { 5201} {n} {n} {1} {0} {} {1.000} {}
 E { 7134} {u} {u} {16} {0} {} {1.000} {}
 
-R { 7134} {0} {} {On Top of an Iceberg} { } {The ice is uneven, and even sharp in some places. The slowly melting\nice shimmers in the light, making it sparkle. Small pools of water have\ncollected among some of the rougher places in the ice. A large hole in\nthe ice leads down, into the center of the iceberg. There does not seem to\nbe an easy way off the iceberg - you would have to jump into the water by\nit, risking your life if the iceberg were to ever topple.\n} {1802 Alaska} {} {} {} {1.000} {}
+R { 7134} {0} {} {On Top of an Iceberg} {t} {The ice is uneven, and even sharp in some places. The slowly melting\nice shimmers in the light, making it sparkle. Small pools of water have\ncollected among some of the rougher places in the ice. A large hole in\nthe ice leads down, into the center of the iceberg. There does not seem to\nbe an easy way off the iceberg - you would have to jump into the water by\nit, risking your life if the iceberg were to ever topple.\n} {1802 Alaska} {} {} {} {1.000} {}
 E { 7135} {d} {d} {32} {0} {} {1.000} {}
 E { 7133} {jump} {jump} {0} {0} {} {1.000} {}
 
@@ -31372,7 +31372,7 @@ E { 7418} {n} {n} {1} {0} {} {1.000} {}
 R { 7418} {0} {} {The Grave of Lord Tokugawa Ieyasu} { } {A stone-paved platform with a large metal urn in the middle of it is the last\nhome of the powerful Shogun. The urn is coiffed with a metal roof, much like a\npagoda, and shows two doors to gain access the remains of Lord Tokugawa.\n} {Medieval JapanExpansion} {} {} {} {1.000} {}
 E { 7417} {s} {s} {4} {0} {} {1.000} {}
 
-R { 7419} {0} {} {A Vast Cave} { } {You are standing inside an enormous cave. Enormous stalactites descend\nfrom the vaulted ceiling, and the faint twittering up there makes you\nshudder as you think of bats. You're not sure quite how you came to be\nhere, because the only light is filtering through a tiny crack high in\none wall - you couldn't possibly have fit through that. The light falls\non the far wall, illuminating intricate paintings consisting entirely of\nfinger tip dabs of paint. The other walls are unseen, somewhere off in\nthe shadows.\n} {Gold Rush Melbourne} {} {} {} {1.000} {}
+R { 7419} {0} {} {A Vast Cave} {t} {You are standing inside an enormous cave. Enormous stalactites descend\nfrom the vaulted ceiling, and the faint twittering up there makes you\nshudder as you think of bats. You're not sure quite how you came to be\nhere, because the only light is filtering through a tiny crack high in\none wall - you couldn't possibly have fit through that. The light falls\non the far wall, illuminating intricate paintings consisting entirely of\nfinger tip dabs of paint. The other walls are unseen, somewhere off in\nthe shadows.\n} {Gold Rush Melbourne} {} {} {} {1.000} {}
 E { 3672} {ask elder leave} {enq ask elder leave} {0} {0} {} {1.000} {}
 E { 3672} {ask elder return} {enq ask elder return} {0} {0} {} {1.000} {}
 
@@ -31774,7 +31774,7 @@ R { 7502} {0} {} {Walking by a River of Lava} { } {The heat contained within the
 E { 7501} {s} {s} {4} {0} {} {1.000} {}
 E { 7503} {n} {n} {1} {0} {} {1.000} {}
 
-R { 7503} {0} {} {The Top of a Lava Chute} { } {The sewers end in a round alcove under the city. A large hole in the middle\nof the room drops below, letting lava fall through it and splash into the\nchamber below.\n} {Arabian Dreams} {} {} {} {1.000} {}
+R { 7503} {0} {} {The Top of a Lava Chute} {t} {The sewers end in a round alcove under the city. A large hole in the middle\nof the room drops below, letting lava fall through it and splash into the\nchamber below.\n} {Arabian Dreams} {} {} {} {1.000} {}
 E { 7502} {s} {s} {4} {0} {} {1.000} {}
 E { 6037} {jump pit} {jump pit} {0} {0} {} {1.000} {}
 E { 6037} {jump chute} {jump chute} {0} {0} {} {1.000} {}
@@ -31798,13 +31798,13 @@ R { 7508} {0} {} {Passing by Ghent} { } {The city of Ghent lies off to the east,
 E { 7507} {s} {s} {4} {0} {} {1.000} {}
 E { 7509} {n} {n} {1} {0} {} {1.000} {}
 
-R { 7509} {0} {} {Gentpoort} { } {Two round towers loom above you as you cross the canal and approach the walls\nof Bruges. An arched gateway leads through the walls into the city, one of\nseven such gates strategically placed around the walls. Narrow slits in the\ntower walls attest to the defensive function of the structure. Guards and\nguild representatives perform checks on goods being transported, as well as\ncollect taxes on imports and exports.\n} {Medieval Flanders} {flanders} {} {} {1.000} {}
+R { 7509} {0} {} {Gentpoort} {t} {Two round towers loom above you as you cross the canal and approach the walls\nof Bruges. An arched gateway leads through the walls into the city, one of\nseven such gates strategically placed around the walls. Narrow slits in the\ntower walls attest to the defensive function of the structure. Guards and\nguild representatives perform checks on goods being transported, as well as\ncollect taxes on imports and exports.\n} {Medieval Flanders} {flanders} {} {} {1.000} {}
 E { 7508} {s} {s} {4} {0} {} {1.000} {}
 E { 7510} {n} {n;enq ask gate gate} {1} {0} {} {1.000} {}
 E { 7510} {ask gate gate} {n;enq ask gate gate} {0} {0} {} {1.000} {}
 E { 7510} {gate} {n;enq ask gate gate} {0} {0} {} {1.000} {}
 
-R { 7510} {0} {} {Fortress Street} { } {Passing through the gates to the south, the narrow, cobblestone street leads\nnorthwards towards the center of the city. The street curves away to the east\nand west following the circular path of the canal and walls that surround the\ntown. Brightly painted brick houses with stair-step gables overlook the\nnarrow street.\n} {Medieval Flanders} {} {} {} {1.000} {}
+R { 7510} {0} {} {Fortress Street} {t} {Passing through the gates to the south, the narrow, cobblestone street leads\nnorthwards towards the center of the city. The street curves away to the east\nand west following the circular path of the canal and walls that surround the\ntown. Brightly painted brick houses with stair-step gables overlook the\nnarrow street.\n} {Medieval Flanders} {} {} {} {1.000} {}
 E { 7509} {s} {s;enq ask gate gate} {4} {0} {} {1.000} {}
 E { 7520} {w} {w} {8} {0} {} {1.000} {}
 E { 7533} {n} {n} {1} {0} {} {1.000} {}
@@ -31837,7 +31837,7 @@ R { 7515} {0} {} {Fortress Street Near the Donkey Gate} { } {The road continues 
 E { 7602} {e} {e} {2} {0} {} {1.000} {}
 E { 7575} {n} {n} {1} {0} {} {1.000} {}
 
-R { 7516} {0} {} {The Donkey Gate} { } {Used mostly by farmers and millers carrying goods to market from the fields\nand windmills beyond, the Donkey Gate is less ostentatious than the other\ncity gates. It is a simple gate, wide enough to allow a donkey and cart to\npass opens through an arch in the city wall. Carts laden with wool, grain,\nand sacks of flour move through the gate with ease.\n} {Medieval Flanders} {} {} {} {1.000} {}
+R { 7516} {0} {} {The Donkey Gate} {t} {Used mostly by farmers and millers carrying goods to market from the fields\nand windmills beyond, the Donkey Gate is less ostentatious than the other\ncity gates. It is a simple gate, wide enough to allow a donkey and cart to\npass opens through an arch in the city wall. Carts laden with wool, grain,\nand sacks of flour move through the gate with ease.\n} {Medieval Flanders} {} {} {} {1.000} {}
 E { 7575} {s} {s} {4} {0} {} {1.000} {}
 E { 7577} {n} {n} {1} {0} {} {1.000} {}
 E { 7582} {w} {w;enq ask gate gate} {8} {0} {} {1.000} {}
@@ -32026,7 +32026,7 @@ R { 7558} {0} {} {Fortress Street} { } {The road continues to follow the path of
 E { 7564} {s} {s} {4} {0} {} {1.000} {}
 E { 7570} {w} {w} {8} {0} {} {1.000} {}
 
-R { 7559} {0} {} {Dampoort Gate} { } {Circular towers rise on each side of the arched gateway that lets the river\ntraffic through the city walls. Peaked roofs top each tower, and atop each\nflies a standard bearing the city coat of arms. The Reie enters the tidal\nchannel, Zwinn, and continues its journey out to sea. Fortress Street\ncontinues east and west, passing behind the church to the east, or on towards\nthe windmills rising in the distance.\n} {Medieval Flanders} {} {} {} {1.000} {}
+R { 7559} {0} {} {Dampoort Gate} {t} {Circular towers rise on each side of the arched gateway that lets the river\ntraffic through the city walls. Peaked roofs top each tower, and atop each\nflies a standard bearing the city coat of arms. The Reie enters the tidal\nchannel, Zwinn, and continues its journey out to sea. Fortress Street\ncontinues east and west, passing behind the church to the east, or on towards\nthe windmills rising in the distance.\n} {Medieval Flanders} {} {} {} {1.000} {}
 E { 7569} {e} {e} {2} {0} {} {1.000} {}
 E { 7555} {s} {s} {4} {0} {} {1.000} {}
 E { 7535} {w} {w} {8} {0} {} {1.000} {}
@@ -32121,7 +32121,7 @@ R { 7581} {4104} {} {} { } {} {} {} {} {} {1.000} {}
 E { 7540} {n} {n} {1} {0} {} {1.000} {}
 E { 7578} {s} {s} {4} {0} {} {1.000} {}
 
-R { 7582} {0} {} {A Flander's Field} { } {A sea of blood-red poppies grow, covering the field. The poppy's red crowns\nwave as the wind rushes through them with a gentle whisper... Remember me.\n} {Medieval Flanders} {} {} {} {1.000} {}
+R { 7582} {0} {} {A Flander's Field} {t} {A sea of blood-red poppies grow, covering the field. The poppy's red crowns\nwave as the wind rushes through them with a gentle whisper... Remember me.\n} {Medieval Flanders} {} {} {} {1.000} {}
 E { 7516} {e} {e;enq ask gate gate} {2} {0} {} {1.000} {}
 E { 7585} {n} {n} {1} {0} {} {1.000} {}
 E { 7587} {s} {s} {4} {0} {} {1.000} {}
@@ -32129,7 +32129,7 @@ E { 7589} {w} {open w;w} {8} {0} {} {1.000} {}
 E { 7516} {ask gate gate} {e;enq ask gate gate} {0} {0} {} {1.000} {}
 E { 7516} {gate} {e;enq ask gate gate} {0} {0} {} {1.000} {}
 
-R { 7583} {0} {} {The River Zwinn Outside the Gates of Bruges} { } {The Zwinn sweeps onwards, emptying into the North Sea. At low tide, the\nchannel recedes leaving muddy flats that are impassable to boats. During\nthe late summer and early fall, sea lavender blossoms along the shores of\nthe tidal channel, attracting bees and all manner of flying creature,\nseeking its sweet nectar.\n} {Medieval Flanders} {flanders} {} {} {1.000} {}
+R { 7583} {0} {} {The River Zwinn Outside the Gates of Bruges} {t} {The Zwinn sweeps onwards, emptying into the North Sea. At low tide, the\nchannel recedes leaving muddy flats that are impassable to boats. During\nthe late summer and early fall, sea lavender blossoms along the shores of\nthe tidal channel, attracting bees and all manner of flying creature,\nseeking its sweet nectar.\n} {Medieval Flanders} {flanders} {} {} {1.000} {}
 E { 7559} {s} {s;enq ask gate gate} {4} {0} {} {1.000} {}
 E { 2525} {n} {n} {1} {1} {} {1.000} {}
 E { 7559} {gate} {s;enq ask gate gate} {0} {0} {} {1.000} {}
@@ -32273,46 +32273,46 @@ E { 7618} {n} {n} {1} {0} {} {1.000} {}
 R { 7618} {0} {} {The Plains of the Megara} { } {You left the forest of the plateau behind you and entered the driest part\nof the vast plains that dominate Carthage. The wind blows here, hot and salty\nfrom the nearby sea, and gently makes the wild herbs dance on the plains.\nProbably because these plains lie on the top of the plateau, it seems only\nthe sky determines their frontier.\n} {Ancient Carthage} {} {} {} {1.000} {}
 E { 7617} {s} {s} {4} {0} {} {1.000} {}
 
-R { 7619} {0} {} {On the Rooftop} { } {The lead roof underfoot offers little in the way of secure footing, and the\nminute scale of the countryside visible to you beyond the flying buttresses\nbrings home to you just how very high up in the air you are. As you look\naround you are amazed by the amount of effort the stonemasons put into the\ngargoyles and other carvings that adorn the rooftop. Isn't it funny how in\ndreams real dangers aren't dangerous at all, and objects seem to be alive?\n} {Saint Denis Abbey} {} {} {} {1.000} {}
+R { 7619} {0} {} {On the Rooftop} {t} {The lead roof underfoot offers little in the way of secure footing, and the\nminute scale of the countryside visible to you beyond the flying buttresses\nbrings home to you just how very high up in the air you are. As you look\naround you are amazed by the amount of effort the stonemasons put into the\ngargoyles and other carvings that adorn the rooftop. Isn't it funny how in\ndreams real dangers aren't dangerous at all, and objects seem to be alive?\n} {Saint Denis Abbey} {} {} {} {1.000} {}
 E { 7620} {e} {e} {2} {0} {} {1.000} {}
 E { 7625} {n} {n} {1} {0} {} {1.000} {}
 E { 6401} {flee} {flee;st} {0} {0} {} {1.000} {}
 
-R { 7620} {0} {} {On the Rooftop} { } {The lead roof underfoot offers little in the way of secure footing, and the\nminute scale of the countryside visible to you beyond the flying buttresses\nbrings home to you just how very high up in the air you are. As you look\naround you are amazed by the amount of effort the stonemasons put into the\ngargoyles and other carvings that adorn the rooftop. Isn't it funny how in\ndreams real dangers aren't dangerous at all, and objects seem to be alive?\n} {Saint Denis Abbey} {} {} {} {1.000} {}
+R { 7620} {0} {} {On the Rooftop} {t} {The lead roof underfoot offers little in the way of secure footing, and the\nminute scale of the countryside visible to you beyond the flying buttresses\nbrings home to you just how very high up in the air you are. As you look\naround you are amazed by the amount of effort the stonemasons put into the\ngargoyles and other carvings that adorn the rooftop. Isn't it funny how in\ndreams real dangers aren't dangerous at all, and objects seem to be alive?\n} {Saint Denis Abbey} {} {} {} {1.000} {}
 E { 7619} {w} {w} {8} {0} {} {1.000} {}
 E { 7621} {s} {s} {4} {0} {} {1.000} {}
 E { 7622} {e} {e} {2} {0} {} {1.000} {}
 E { 7624} {n} {n} {1} {0} {} {1.000} {}
 E { 6401} {flee} {flee;st} {0} {0} {} {1.000} {}
 
-R { 7621} {0} {} {On the Rooftop} { } {The lead roof underfoot offers little in the way of secure footing, and the\nminute scale of the countryside visible to you beyond the flying buttresses\nbrings home to you just how very high up in the air you are. As you look\naround you are amazed by the amount of effort the stonemasons put into the\ngargoyles and other carvings that adorn the rooftop. Isn't it funny how in\ndreams real dangers aren't dangerous at all, and objects seem to be alive?\n} {Saint Denis Abbey} {} {} {} {1.000} {}
+R { 7621} {0} {} {On the Rooftop} {t} {The lead roof underfoot offers little in the way of secure footing, and the\nminute scale of the countryside visible to you beyond the flying buttresses\nbrings home to you just how very high up in the air you are. As you look\naround you are amazed by the amount of effort the stonemasons put into the\ngargoyles and other carvings that adorn the rooftop. Isn't it funny how in\ndreams real dangers aren't dangerous at all, and objects seem to be alive?\n} {Saint Denis Abbey} {} {} {} {1.000} {}
 E { 7620} {n} {n} {1} {0} {} {1.000} {}
 E { 7628} {s} {s} {4} {0} {} {1.000} {}
 E { 6401} {flee} {flee;st} {0} {0} {} {1.000} {}
 
-R { 7622} {0} {} {On the Rooftop} { } {The lead roof underfoot offers little in the way of secure footing, and the\nminute scale of the countryside visible to you beyond the flying buttresses\nbrings home to you just how very high up in the air you are. As you look\naround you are amazed by the amount of effort the stonemasons put into the\ngargoyles and other carvings that adorn the rooftop. Isn't it funny how in\ndreams real dangers aren't dangerous at all, and objects seem to be alive?\n} {Saint Denis Abbey} {} {} {} {1.000} {}
+R { 7622} {0} {} {On the Rooftop} {t} {The lead roof underfoot offers little in the way of secure footing, and the\nminute scale of the countryside visible to you beyond the flying buttresses\nbrings home to you just how very high up in the air you are. As you look\naround you are amazed by the amount of effort the stonemasons put into the\ngargoyles and other carvings that adorn the rooftop. Isn't it funny how in\ndreams real dangers aren't dangerous at all, and objects seem to be alive?\n} {Saint Denis Abbey} {} {} {} {1.000} {}
 E { 7620} {w} {w} {8} {0} {} {1.000} {}
 E { 7623} {n} {n} {1} {0} {} {1.000} {}
 E { 6401} {flee} {flee;st} {0} {0} {} {1.000} {}
 
-R { 7623} {0} {} {On the Rooftop} { } {The lead roof underfoot offers little in the way of secure footing, and the\nminute scale of the countryside visible to you beyond the flying buttresses\nbrings home to you just how very high up in the air you are. As you look\naround you are amazed by the amount of effort the stonemasons put into the\ngargoyles and other carvings that adorn the rooftop. Isn't it funny how in\ndreams real dangers aren't dangerous at all, and objects seem to be alive?\n} {Saint Denis Abbey} {} {} {} {1.000} {}
+R { 7623} {0} {} {On the Rooftop} {t} {The lead roof underfoot offers little in the way of secure footing, and the\nminute scale of the countryside visible to you beyond the flying buttresses\nbrings home to you just how very high up in the air you are. As you look\naround you are amazed by the amount of effort the stonemasons put into the\ngargoyles and other carvings that adorn the rooftop. Isn't it funny how in\ndreams real dangers aren't dangerous at all, and objects seem to be alive?\n} {Saint Denis Abbey} {} {} {} {1.000} {}
 E { 7622} {s} {s} {4} {0} {} {1.000} {}
 E { 7624} {w} {w} {8} {0} {} {1.000} {}
 E { 6401} {flee} {flee;st} {0} {0} {} {1.000} {}
 
-R { 7624} {0} {} {On the Rooftop} { } {The lead roof underfoot offers little in the way of secure footing, and the\nminute scale of the countryside visible to you beyond the flying buttresses\nbrings home to you just how very high up in the air you are. As you look\naround you are amazed by the amount of effort the stonemasons put into the\ngargoyles and other carvings that adorn the rooftop. Isn't it funny how in\ndreams real dangers aren't dangerous at all, and objects seem to be alive?\n} {Saint Denis Abbey} {} {} {} {1.000} {}
+R { 7624} {0} {} {On the Rooftop} {t} {The lead roof underfoot offers little in the way of secure footing, and the\nminute scale of the countryside visible to you beyond the flying buttresses\nbrings home to you just how very high up in the air you are. As you look\naround you are amazed by the amount of effort the stonemasons put into the\ngargoyles and other carvings that adorn the rooftop. Isn't it funny how in\ndreams real dangers aren't dangerous at all, and objects seem to be alive?\n} {Saint Denis Abbey} {} {} {} {1.000} {}
 E { 7623} {e} {e} {2} {0} {} {1.000} {}
 E { 7625} {w} {w} {8} {0} {} {1.000} {}
 E { 7620} {s} {s} {4} {0} {} {1.000} {}
 E { 7626} {n} {n} {1} {0} {} {1.000} {}
 E { 6401} {flee} {flee;st} {0} {0} {} {1.000} {}
 
-R { 7625} {0} {} {On the Rooftop} { } {The lead roof underfoot offers little in the way of secure footing, and the\nminute scale of the countryside visible to you beyond the flying buttresses\nbrings home to you just how very high up in the air you are. As you look\naround you are amazed by the amount of effort the stonemasons put into the\ngargoyles and other carvings that adorn the rooftop. Isn't it funny how in\ndreams real dangers aren't dangerous at all, and objects seem to be alive?\n} {Saint Denis Abbey} {} {} {} {1.000} {}
+R { 7625} {0} {} {On the Rooftop} {t} {The lead roof underfoot offers little in the way of secure footing, and the\nminute scale of the countryside visible to you beyond the flying buttresses\nbrings home to you just how very high up in the air you are. As you look\naround you are amazed by the amount of effort the stonemasons put into the\ngargoyles and other carvings that adorn the rooftop. Isn't it funny how in\ndreams real dangers aren't dangerous at all, and objects seem to be alive?\n} {Saint Denis Abbey} {} {} {} {1.000} {}
 E { 7624} {e} {e} {2} {0} {} {1.000} {}
 E { 7619} {s} {s} {4} {0} {} {1.000} {}
 E { 6401} {flee} {flee;st} {0} {0} {} {1.000} {}
 
-R { 7626} {0} {} {On the Rooftop} { } {The lead roof underfoot offers little in the way of secure footing, and the\nminute scale of the countryside visible to you beyond the flying buttresses\nbrings home to you just how very high up in the air you are. As you look\naround you are amazed by the amount of effort the stonemasons put into the\ngargoyles and other carvings that adorn the rooftop. Isn't it funny how in\ndreams real dangers aren't dangerous at all, and objects seem to be alive?\n} {Saint Denis Abbey} {} {} {} {1.000} {}
+R { 7626} {0} {} {On the Rooftop} {t} {The lead roof underfoot offers little in the way of secure footing, and the\nminute scale of the countryside visible to you beyond the flying buttresses\nbrings home to you just how very high up in the air you are. As you look\naround you are amazed by the amount of effort the stonemasons put into the\ngargoyles and other carvings that adorn the rooftop. Isn't it funny how in\ndreams real dangers aren't dangerous at all, and objects seem to be alive?\n} {Saint Denis Abbey} {} {} {} {1.000} {}
 E { 7624} {s} {s} {4} {0} {} {1.000} {}
 E { 7627} {n} {n} {1} {0} {} {1.000} {}
 E { 6401} {flee} {flee;st} {0} {0} {} {1.000} {}
@@ -32696,7 +32696,7 @@ E { 7719} {s} {s} {4} {0} {} {1.000} {}
 R { 7721} {0} {} {The Temple of Huitzilopochtli} { } {This temple of Huitzilopochtli, the southern hummingbird and ferocious war god,\nanother aspect of Tonatiu, the sun god, is where all the wars are planned and\ndeclared by the Mexica. A hollow stone statue of Huitzilopochtli stands in the\nmiddle of this bare stone room, mouth gaping, waiting to receive nourishment.\n} {Aztecs} {} {} {} {1.000} {}
 E { 7719} {n} {n} {1} {0} {} {1.000} {}
 
-R { 7722} {0} {} {Inside the Lion Gate} { } {Towering stone walls surround you, blocking out view of all but a patch of the\nsky above. It is said that the Cyclopes built this place at the order of\nPerseus, and you believe it after seeing the massive stone blocks which make\nup the walls around you and the Lion Gate to the south. You are standing on a\nsteep stone ramp which leads down to the Lion Gate, and extends up to the\ncenter of the fortress to the north. A small guardhouse has been carved out of\nthe imposing cliff-wall to the west.\n} {Ancient Greece} {} {} {} {1.000} {}
+R { 7722} {0} {} {Inside the Lion Gate} {t} {Towering stone walls surround you, blocking out view of all but a patch of the\nsky above. It is said that the Cyclopes built this place at the order of\nPerseus, and you believe it after seeing the massive stone blocks which make\nup the walls around you and the Lion Gate to the south. You are standing on a\nsteep stone ramp which leads down to the Lion Gate, and extends up to the\ncenter of the fortress to the north. A small guardhouse has been carved out of\nthe imposing cliff-wall to the west.\n} {Ancient Greece} {} {} {} {1.000} {}
 E { 7723} {w} {w} {8} {0} {} {1.000} {}
 E { 7724} {n} {n} {1} {0} {} {1.000} {}
 E { 3277} {ask gate gate} {enq ask gate gate} {0} {0} {} {1.000} {}
@@ -32726,7 +32726,7 @@ R { 7728} {0} {} {The Acropolis} { } {From this vantage on the eastern end of th
 E { 7724} {w} {w} {8} {0} {} {1.000} {}
 E { 7729} {e} {e} {2} {0} {} {1.000} {}
 
-R { 7729} {0} {} {A Sally Port} { } {This enclosed corridor is the sally port for the postern gate, dimly lit by a\nsingle torch. The ground slopes steeply up to the west, leading to the center\nof town and the acropolis, while a low wooden gate, framed in stone, blocks\negress to the east through a narrow sally port. Cyclopean stone blocks make\nup the walls, the framing of the gate, and overhang the port, giving you the\nuncomfortable feeling that were the port to collapse, you would be buried\nunder so much rock that no one could dig deep enough to find your pulverized\ncorpse.\n} {Ancient Greece} {} {} {} {1.000} {}
+R { 7729} {0} {} {A Sally Port} {t} {This enclosed corridor is the sally port for the postern gate, dimly lit by a\nsingle torch. The ground slopes steeply up to the west, leading to the center\nof town and the acropolis, while a low wooden gate, framed in stone, blocks\negress to the east through a narrow sally port. Cyclopean stone blocks make\nup the walls, the framing of the gate, and overhang the port, giving you the\nuncomfortable feeling that were the port to collapse, you would be buried\nunder so much rock that no one could dig deep enough to find your pulverized\ncorpse.\n} {Ancient Greece} {} {} {} {1.000} {}
 E { 7728} {w} {w} {8} {0} {} {1.000} {}
 E { 3275} {gate} {enq ask gate gate} {0} {0} {} {1.000} {}
 E { 3275} {ask gate gate} {enq ask gate gate} {0} {0} {} {1.000} {}
@@ -33003,7 +33003,7 @@ E { 7832} {n} {n} {1} {0} {} {1.000} {}
 E { 7800} {e} {e} {2} {0} {} {1.000} {}
 E { 7801} {w} {w} {8} {0} {} {1.000} {}
 
-R { 7800} {0} {} {The Harbor on the Lava Sea} { } {The vast harbor of the City of Brass opens right into the heart of the\nmegalopolis. Feluccas with metallic hulls and flying dhows sail the sea of\nfire, an ocean of blazing lava crashing with rage against the scorched stone\ndocks of the harbor.\n} {Arabian Dreams} {} {} {} {1.000} {}
+R { 7800} {0} {} {The Harbor on the Lava Sea} {t} {The vast harbor of the City of Brass opens right into the heart of the\nmegalopolis. Feluccas with metallic hulls and flying dhows sail the sea of\nfire, an ocean of blazing lava crashing with rage against the scorched stone\ndocks of the harbor.\n} {Arabian Dreams} {} {} {} {1.000} {}
 E { 7799} {w} {w} {8} {0} {} {1.000} {}
 E { 3442} {use portal} {use portal} {0} {0} {} {1.000} {}
 
@@ -33013,7 +33013,7 @@ E { 7802} {s} {open s;s} {4} {0} {} {1.000} {}
 E { 7803} {w} {w} {8} {0} {} {1.000} {}
 E { 7834} {n} {open n;n} {1} {0} {} {1.000} {}
 
-R { 7802} {0} {} {The Sultan's Gardens} { } {You've stumbled upon luxurious gardens filled with exotic plants and rare,\nwild animals, ranging from tiny creatures made out of lava and magma birds\nto the reclusive fiery ostriches and smoldering basilisks.\n} {Arabian Dreams} {} {} {} {1.000} {}
+R { 7802} {0} {} {The Sultan's Gardens} {t} {You've stumbled upon luxurious gardens filled with exotic plants and rare,\nwild animals, ranging from tiny creatures made out of lava and magma birds\nto the reclusive fiery ostriches and smoldering basilisks.\n} {Arabian Dreams} {} {} {} {1.000} {}
 E { 7801} {n} {open n;n} {1} {0} {} {1.000} {}
 E {   76} {use portal} {use portal} {0} {0} {} {1.000} {}
 
@@ -33039,7 +33039,7 @@ E { 7806} {e} {e} {2} {0} {} {1.000} {}
 E { 7808} {s} {s} {4} {0} {} {1.000} {}
 E { 7809} {w} {w} {8} {0} {} {1.000} {}
 
-R { 7808} {0} {} {The Street of Fiery Sands} { } {The solid and ancient pavement of the main avenue is gone, leaving a street\ncovered is scalding black sands in its stead. The buildings have tall metal\nwalls with spiking minarets and sublime magician towers, making the street\nfeel narrow and dangerous.\n} {Arabian Dreams} {} {} {} {1.000} {}
+R { 7808} {0} {} {The Street of Fiery Sands} {t} {The solid and ancient pavement of the main avenue is gone, leaving a street\ncovered is scalding black sands in its stead. The buildings have tall metal\nwalls with spiking minarets and sublime magician towers, making the street\nfeel narrow and dangerous.\n} {Arabian Dreams} {} {} {} {1.000} {}
 E { 7807} {n} {n} {1} {0} {} {1.000} {}
 E { 4483} {use portal} {use portal} {0} {0} {} {1.000} {}
 
@@ -33298,7 +33298,7 @@ R { 7874} {0} {} {Approaching a Circle of Stones} { } {The green Salisbury plain
 E { 7873} {n} {n} {1} {0} {} {1.000} {}
 E { 7875} {e} {e} {2} {0} {} {1.000} {}
 
-R { 7875} {0} {} {Stonehenge} { } {You stand in the middle of a ring of standing stones, each about thirteen feet\nhigh, seven feet wide and weighing many tons. The stones are set within\nearthworks in the middle of several hundred burial mounds. The local folks\npretend that these stones were raised from inside the earth with powerful\nfaery magics and that only the wizard Myrddin knows the spells that allow to\nuse them as a portal to Arcadia.\n} {Camelot} {stonehenge} {} {} {1.000} {}
+R { 7875} {0} {} {Stonehenge} {t} {You stand in the middle of a ring of standing stones, each about thirteen feet\nhigh, seven feet wide and weighing many tons. The stones are set within\nearthworks in the middle of several hundred burial mounds. The local folks\npretend that these stones were raised from inside the earth with powerful\nfaery magics and that only the wizard Myrddin knows the spells that allow to\nuse them as a portal to Arcadia.\n} {Camelot} {stonehenge} {} {} {1.000} {}
 E { 7874} {w} {w} {8} {0} {} {1.000} {}
 E { 1130} {n} {n;stand} {1} {3} {} {1.000} {}
 E { 1397} {e} {e;stand} {2} {3} {} {1.000} {}
@@ -33732,7 +33732,7 @@ E { 8102} {e} {e} {2} {0} {} {1.000} {}
 E { 7980} {n} {n} {1} {0} {} {1.000} {}
 E { 8000} {s} {s} {4} {0} {} {1.000} {}
 
-R { 7980} {0} {} {A Stone Circle} { } {The stone circle here has a bad reputation. Folklore says a faerie underhill\nruns under the cromlech and that as times, the cunning creatures roam the\nmountain, feeding the chilling tale of Changelings, human babies switched with\nfairy folk and raised at the court of Queen Cyara.\n} {Camelot} {} {} {} {1.000} {}
+R { 7980} {0} {} {A Stone Circle} {t} {The stone circle here has a bad reputation. Folklore says a faerie underhill\nruns under the cromlech and that as times, the cunning creatures roam the\nmountain, feeding the chilling tale of Changelings, human babies switched with\nfairy folk and raised at the court of Queen Cyara.\n} {Camelot} {} {} {} {1.000} {}
 E { 7979} {s} {s} {4} {0} {} {1.000} {}
 E { 7981} {push mound} {enq push mound} {0} {0} {} {1.000} {}
 
@@ -34246,7 +34246,7 @@ R { 8105} {0} {} {A Cave under the Castle} { } {A narrow passageway leads from t
 E { 8104} {n} {n} {1} {0} {} {1.000} {}
 E { 8106} {s} {open s;s} {4} {0} {} {1.000} {}
 
-R { 8106} {0} {} {A Dark Chamber} { } {This dark room under the castle shows little sign of passage, probably\nonly Caradoc trying to sneak into the kitchens.\n} {Camelot} {} {} {} {1.000} {}
+R { 8106} {0} {} {A Dark Chamber} {t} {This dark room under the castle shows little sign of passage, probably\nonly Caradoc trying to sneak into the kitchens.\n} {Camelot} {} {} {} {1.000} {}
 E { 8105} {n} {open n;n} {1} {0} {} {1.000} {}
 E { 8107} {s} {s} {4} {0} {} {1.000} {}
 E { 7948} {push trapdoor} {push trapdoor} {0} {0} {} {1.000} {}
@@ -35169,7 +35169,7 @@ R { 8324} {0} {} {A Clearing by the River} { } {A grassy clearing opens up betwe
 E {  924} {n} {n} {1} {0} {} {1.000} {}
 E { 8325} {w} {w} {8} {0} {} {1.000} {}
 
-R { 8325} {0} {} {Lost Amongst the Trees} { } {The trees loom darkly overhead, letting in little light from the sky above.\nThe little light that makes it through the canopy is weak and green-tinged.\nAnimals of the forest wander unseen nearby, their presence only given away\nby the occasional rustle of leaves or twig snapping. It gives the unnerving\nfeeling that you are at once, completely alone and being watched.\n} {The Black Forest} {} {} {} {1.000} {}
+R { 8325} {0} {} {Lost Amongst the Trees} {t} {The trees loom darkly overhead, letting in little light from the sky above.\nThe little light that makes it through the canopy is weak and green-tinged.\nAnimals of the forest wander unseen nearby, their presence only given away\nby the occasional rustle of leaves or twig snapping. It gives the unnerving\nfeeling that you are at once, completely alone and being watched.\n} {The Black Forest} {} {} {} {1.000} {}
 E { 8324} {e} {e} {2} {0} {} {1.000} {}
 E { 8326} {climb tree} {climb tree} {0} {0} {} {1.000} {}
 
