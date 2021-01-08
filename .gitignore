@@ -2,6 +2,7 @@
 user.config
 
 logs/log*
+classes/*
 
 /chat.*
 group.txt

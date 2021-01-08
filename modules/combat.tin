@@ -67,11 +67,16 @@
         #LOCAL line {$xp_check[$count]};
         #REGEX {$line} {{You receive \d+ experience.}}
         {
+<<<<<<< HEAD
             #IF {"$prompt[leader]" == "Nobody"}
             {
                     #SEND get coins corpse;get money corpse;carve corpse;
             };
             stand;exa corpse;
+=======
+            #SEND get coin corpse,money corpse;
+            #SEND stand;
+>>>>>>> 7518233851b4796bbbadbe786d5405f1d234942b
         };
     };
     #UNVAR xp_check;
