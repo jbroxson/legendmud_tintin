@@ -179,8 +179,6 @@ Display the map with one of the following methods:
     - the {map_vtmap} and {split_top} settings are no longer necessary or used.
 - Set `map_external*` settings in `user.config`. Navigate to map/ in a separate terminal and run `./showmap`
 
-Note: If you're not using the prompt module, you will need to add a @$ to the end of your prompt format. This allows the map module to locate your room during recalls and usage of the 'find' command.
-
 ### Map Aliases
 |Alias|Description|Usage|
 |:----|:----------|:----|
